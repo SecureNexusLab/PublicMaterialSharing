@@ -1,5 +1,5 @@
-# Viking-ShareSessions
-Documentation or supporting materials of SEcureNexusLab team's public sharing sessions
+# Viking-ShareSessions / SecureNexusLab-Public shared-meeting-record
+Documentation or supporting materials of SecureNexusLab team's public sharing sessions
 
 Video sharing information
 https://space.bilibili.com/3493268132203156?spm_id_from=333.337.0.0
