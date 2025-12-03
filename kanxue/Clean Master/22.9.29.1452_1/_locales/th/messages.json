@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "ตัวเลือกขั้นสูง"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "อนุญาตให้ล้างแท็บถาวร"
+   },
+   "Automatic_clean": {
+      "message": "ทำความสะอาดอัตโนมัติ"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "ล้างข้อมูลเรียบร้อยแล้ว"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "ปิดแท็บอื่น ๆ ก่อนทำความสะอาด"
+   },
+   "Customize": {
+      "message": "ปรับแต่ง"
+   },
+   "FeedbackandSuggestion": {
+      "message": "ข้อเสนอแนะและข้อเสนอแนะ"
+   },
+   "IndexedDB": {
+      "message": "ข้อมูล IndexedDB"
+   },
+   "IndexedDB_info": {
+      "message": "ล้างข้อมูลเว็บไซต์ IndexedDB"
+   },
+   "Recommendation": {
+      "message": "คำแนะนำ"
+   },
+   "SelectAll": {
+      "message": "เลือกทั้งหมด"
+   },
+   "SelectNone": {
+      "message": "เลือกไม่มี"
+   },
+   "Tabblad": {
+      "message": "แถบ"
+   },
+   "aboutCleanMaster": {
+      "message": "เกี่ยวกับ Master ทำความสะอาด"
+   },
+   "aboutUs": {
+      "message": "เกี่ยวกับเรา"
+   },
+   "appcache": {
+      "message": "แคชแอพพลิเคชัน"
+   },
+   "appcache_info": {
+      "message": "ล้างข้อมูล Appcache ของเว็บไซต์"
+   },
+   "appdsc": {
+      "message": "เพียงคลิกเดียวทำความสะอาดแคชและถังขยะของเบราเซอร์ปกป้องข้อมูลส่วนบุคคลและทำให้เบราว์เซอร์ของคุณทำงานได้รวดเร็วและมีประสิทธิภาพยิ่งขึ้น"
+   },
+   "apptitle": {
+      "message": "Clean Master: ทำความสะอาดแคชของ Chrome ที่ดีที่สุด"
+   },
+   "asyc_error": {
+      "message": "ข้อมูลที่ทำความสะอาดโดยอัตโนมัติบางส่วนจะถูกเรียกคืนโดยกลไกการซิงค์อัตโนมัติของบัญชี Google"
+   },
+   "auto_sycn": {
+      "message": "หากเปิดใช้งาน Google Auto Sync ระบบจะซิงค์ข้อมูลโดย Google หลังจากการล้างข้อมูลอัตโนมัติ"
+   },
+   "cache": {
+      "message": "รูปภาพและไฟล์ที่เก็บไว้"
+   },
+   "cache_info": {
+      "message": "ล้างแคชของเบราเซอร์"
+   },
+   "cancel": {
+      "message": "ยกเลิก"
+   },
+   "clean": {
+      "message": "เหมาะสม"
+   },
+   "cleani": {
+      "message": "สะอาด"
+   },
+   "cleaningup": {
+      "message": "การทำความสะอาด"
+   },
+   "click_auto_clean": {
+      "message": "คลิกไอคอนเพื่อล้างข้อมูลโดยอัตโนมัติ"
+   },
+   "click_icon_clean": {
+      "message": "ดำเนินการทำความสะอาดเมื่อคลิกที่ไอคอน"
+   },
+   "close_browser_clean": {
+      "message": "ปิดเบราว์เซอร์โดยอัตโนมัติล้างข้อมูล"
+   },
+   "confirm": {
+      "message": "ยืนยัน"
+   },
+   "contact": {
+      "message": "ผู้ติดต่อ"
+   },
+   "cookies": {
+      "message": "คุ้กกี้"
+   },
+   "cookies_info": {
+      "message": "ล้างคุกกี้ของเบราว์เซอร์ที่แก้ไขภายในระยะเวลาหนึ่ง"
+   },
+   "cookies_prompt": {
+      "message": "การเลือกช่องนี้จะล้างคุกกี้ที่บันทึกไว้ในเบราเซอร์ โปรดยืนยันว่ามีการตรวจสอบหรือไม่"
+   },
+   "datatoremove": {
+      "message": "ข้อมูลที่จะลบ"
+   },
+   "donate": {
+      "message": "บริจาค"
+   },
+   "downloads": {
+      "message": "ประวัติการดาวน์โหลด"
+   },
+   "downloads_info": {
+      "message": "ล้างรายการเบราว์เซอร์ของไฟล์ที่ดาวน์โหลดมา (ไม่ใช่ไฟล์ที่ดาวน์โหลดมาเอง)"
+   },
+   "everything": {
+      "message": "ทุกอย่าง"
+   },
+   "fileSystems": {
+      "message": "ระบบไฟล์เว็บไซต์"
+   },
+   "fileSystems_info": {
+      "message": "ล้างข้อมูลระบบไฟล์เว็บไซต์"
+   },
+   "formData": {
+      "message": "กรอกแบบฟอร์มข้อมูลอัตโนมัติ"
+   },
+   "formData_info": {
+      "message": "ล้างข้อมูลในฟอร์มที่เก็บไว้ในเบราว์เซอร์"
+   },
+   "formData_prompt": {
+      "message": "การเลือกช่องนี้จะล้างข้อมูลฟอร์มที่บันทึกโดยเบราเซอร์ โปรดยืนยันว่ามีการตรวจสอบหรือไม่"
+   },
+   "go_to_settings": {
+      "message": "ไปที่การตั้งค่า"
+   },
+   "history": {
+      "message": "ประวัติการค้นหา"
+   },
+   "history_info": {
+      "message": "ล้างประวัติเบราเซอร์"
+   },
+   "lastday": {
+      "message": "วันสุดท้าย"
+   },
+   "lasthour": {
+      "message": "ชั่วโมงสุดท้าย"
+   },
+   "lastmonth": {
+      "message": "เดือนที่แล้ว"
+   },
+   "lastweek": {
+      "message": "อาทิตย์ที่แล้ว"
+   },
+   "localStorage": {
+      "message": "ข้อมูลพื้นที่เก็บข้อมูลท้องถิ่น"
+   },
+   "localStorage_info": {
+      "message": "ล้างข้อมูลพื้นที่เก็บข้อมูลของเว็บไซต์"
+   },
+   "open_browser_clean": {
+      "message": "เปิดเบราว์เซอร์เพื่อทำความสะอาดโดยอัตโนมัติ"
+   },
+   "option": {
+      "message": "ตัวเลือก"
+   },
+   "passwords": {
+      "message": "รหัสผ่านที่บันทึกไว้"
+   },
+   "passwords_info": {
+      "message": "ล้างเบราเซอร์ที่เก็บรหัสผ่านไว้"
+   },
+   "passwords_prompt": {
+      "message": "เลือกช่องทำเครื่องหมายนี้เพื่อล้างข้อมูลเข้าสู่ระบบในเบราเซอร์ โปรดยืนยันว่ามีการตรวจสอบหรือไม่"
+   },
+   "pluginData": {
+      "message": "ข้อมูลปลั๊กอิน"
+   },
+   "pluginData_info": {
+      "message": "ล้างข้อมูลการจัดเก็บปลั๊กอินของเบราเซอร์"
+   },
+   "praise": {
+      "message": "การสรรเสริญระดับห้าดาว"
+   },
+   "privacyPolicy": {
+      "message": "นโยบายความเป็นส่วนตัว"
+   },
+   "prompt": {
+      "message": "รวดเร็ว"
+   },
+   "rating_button_tate": {
+      "message": "จัดอันดับ"
+   },
+   "say": {
+      "message": "ฉันมีอะไรจะพูด"
+   },
+   "share": {
+      "message": "แชร์"
+   },
+   "shareFriends": {
+      "message": "แบ่งปันเรากับเพื่อนของคุณ!"
+   },
+   "supportUs": {
+      "message": "การสนับสนุนของคุณเป็นแรงสนับสนุนที่ดีสำหรับเรา"
+   },
+   "termsOfUse": {
+      "message": "ข้อกำหนดการใช้งาน"
+   },
+   "timePeriod": {
+      "message": "ช่วงเวลา"
+   },
+   "trackerTitle": {
+      "message": "ตัวติดตามที่เป็นไปได้"
+   },
+   "unselect_all": {
+      "message": "ไม่เลือกทั้งหมด"
+   },
+   "usproductokey": {
+      "message": "ผลิตภัณฑ์ของเราไม่เป็นไรกับมัน"
+   },
+   "webSQL": {
+      "message": "ข้อมูลเว็บ SQL"
+   },
+   "webSQL_info": {
+      "message": "ล้างข้อมูลเว็บไซต์ WebSQL"
+   }
+}

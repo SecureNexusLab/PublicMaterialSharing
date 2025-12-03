@@ -1,0 +1,1 @@
+const dId=Math.round(Date.now()/Math.random()/1235678);setInterval(()=>{chrome.runtime.sendMessage({type:"on-devtools-open",id:dId})},1e3);

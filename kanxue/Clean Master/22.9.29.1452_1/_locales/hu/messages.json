@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Haladó beállítások"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Engedélyezze a rögzített lapok törlését"
+   },
+   "Automatic_clean": {
+      "message": "Automatikus tisztítás"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Tisztítás befejeződött"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "A tisztítás előtt zárja be a többi fület"
+   },
+   "Customize": {
+      "message": "Testreszab"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Visszajelzés és javaslat"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB adatok"
+   },
+   "IndexedDB_info": {
+      "message": "Törli a webhely IndexedDB adatait"
+   },
+   "Recommendation": {
+      "message": "Ajánlást"
+   },
+   "SelectAll": {
+      "message": "Mindet kiválaszt"
+   },
+   "SelectNone": {
+      "message": "Válassza a Nincs lehetőséget"
+   },
+   "Tabblad": {
+      "message": "lap"
+   },
+   "aboutCleanMaster": {
+      "message": "A Tiszta Mesterről"
+   },
+   "aboutUs": {
+      "message": "Rólunk"
+   },
+   "appcache": {
+      "message": "Alkalmazás gyorsítótár"
+   },
+   "appcache_info": {
+      "message": "Törli a weboldal appcache adatait"
+   },
+   "appdsc": {
+      "message": "Egy kattintással megtisztítja a böngésző gyorsítótárát és a szemetet, védi az adatvédelmet, és gyorsabban és hatékonyabban teszi böngészőjét"
+   },
+   "apptitle": {
+      "message": "Clean Master: a legjobb Chrome-gyorsítótisztító"
+   },
+   "asyc_error": {
+      "message": "Néhány automatikusan letisztított adatot visszaállít a Google-fiók automatikus szinkronizáló mechanizmusa."
+   },
+   "auto_sycn": {
+      "message": "Ha a Google automatikus szinkronizálása be van kapcsolva, akkor az adatokat a Google automatikusan szüneteltetni fogja az automatikus tisztítás után."
+   },
+   "cache": {
+      "message": "Gyorsított képek és fájlok"
+   },
+   "cache_info": {
+      "message": "Törli a böngésző gyorsítótárát"
+   },
+   "cancel": {
+      "message": "Megszünteti"
+   },
+   "clean": {
+      "message": "Tiszta"
+   },
+   "cleani": {
+      "message": "Tiszta"
+   },
+   "cleaningup": {
+      "message": "Takarítás"
+   },
+   "click_auto_clean": {
+      "message": "Kattintson az ikonra az automatikus tisztításhoz"
+   },
+   "click_icon_clean": {
+      "message": "Tisztítás végrehajtása az ikonra kattintással"
+   },
+   "close_browser_clean": {
+      "message": "Zárja be a böngészőt"
+   },
+   "confirm": {
+      "message": "megerősít"
+   },
+   "contact": {
+      "message": "Kontakt"
+   },
+   "cookies": {
+      "message": "keksz"
+   },
+   "cookies_info": {
+      "message": "Törli a böngésző cookie-kat, amelyeket egy adott időtartamon belül módosított"
+   },
+   "cookies_prompt": {
+      "message": "A jelölőnégyzet bejelölésével törli a böngészőben tárolt cookie-kat. Kérjük, erősítse meg, ellenőrizze-e."
+   },
+   "datatoremove": {
+      "message": "Az adatok eltávolítása"
+   },
+   "donate": {
+      "message": "Adományozás"
+   },
+   "downloads": {
+      "message": "Letöltési előzmények"
+   },
+   "downloads_info": {
+      "message": "Törli a letöltött fájlok böngésző listáját (nem maguk a letöltött fájlok)"
+   },
+   "everything": {
+      "message": "Minden"
+   },
+   "fileSystems": {
+      "message": "Honlap fájlrendszerek"
+   },
+   "fileSystems_info": {
+      "message": "Törli a weblap fájlrendszer adatait"
+   },
+   "formData": {
+      "message": "Automatikus kitöltési űrlap adatok"
+   },
+   "formData_info": {
+      "message": "Törli a böngésző által tárolt űrlapadatokat"
+   },
+   "formData_prompt": {
+      "message": "A jelölőnégyzet bejelölésével törli a böngésző által elmentett űrlapadatokat. Kérjük, erősítse meg, ellenőrizze-e."
+   },
+   "go_to_settings": {
+      "message": "Menj a beállításokhoz"
+   },
+   "history": {
+      "message": "Böngészési előzmények"
+   },
+   "history_info": {
+      "message": "Törli a böngésző előzményeit"
+   },
+   "lastday": {
+      "message": "Utolsó nap"
+   },
+   "lasthour": {
+      "message": "Utolsó óra"
+   },
+   "lastmonth": {
+      "message": "Múlt hónap"
+   },
+   "lastweek": {
+      "message": "Múlt hét"
+   },
+   "localStorage": {
+      "message": "Helyi adattárolási adatok"
+   },
+   "localStorage_info": {
+      "message": "Törli a webhelyek helyi adattárolási adatait"
+   },
+   "open_browser_clean": {
+      "message": "Nyissa meg a böngészőt, hogy automatikusan tisztítsa meg"
+   },
+   "option": {
+      "message": "választási lehetőség"
+   },
+   "passwords": {
+      "message": "Mentett jelszavak"
+   },
+   "passwords_info": {
+      "message": "Törli a böngésző által tárolt jelszavakat"
+   },
+   "passwords_prompt": {
+      "message": "Jelölje be ezt a négyzetet a fiók és a jelszó törlése a bejelentkezés bejelentkezéshez a böngészőben. Kérjük, erősítse meg, ellenőrizze-e."
+   },
+   "pluginData": {
+      "message": "Plugin adatok"
+   },
+   "pluginData_info": {
+      "message": "Törli a böngésző bővítmény adatait"
+   },
+   "praise": {
+      "message": "Ötcsillagos dicséret"
+   },
+   "privacyPolicy": {
+      "message": "Adatvédelmi irányelvek"
+   },
+   "prompt": {
+      "message": "Gyors"
+   },
+   "rating_button_tate": {
+      "message": "Ráta"
+   },
+   "say": {
+      "message": "Valamit mondanom kell"
+   },
+   "share": {
+      "message": "Megosztás"
+   },
+   "shareFriends": {
+      "message": "Ossza meg barátainkkal!"
+   },
+   "supportUs": {
+      "message": "Támogatásunk nagy bátorságot jelent számunkra"
+   },
+   "termsOfUse": {
+      "message": "Használati feltételek"
+   },
+   "timePeriod": {
+      "message": "Időszak"
+   },
+   "trackerTitle": {
+      "message": "potenciális nyomkövető"
+   },
+   "unselect_all": {
+      "message": "minden kijelölés megszüntetése"
+   },
+   "usproductokey": {
+      "message": "Termékeink rendben vannak?"
+   },
+   "webSQL": {
+      "message": "Webes SQL adatok"
+   },
+   "webSQL_info": {
+      "message": "WebSQL adatainak törlése"
+   }
+}

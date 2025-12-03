@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Pokročilé nastavenia"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Povoliť vymazanie pevných záložiek"
+   },
+   "Automatic_clean": {
+      "message": "Automatické čistenie"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Vyčistiť Dokončené"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Pred čistením zatvorte ostatné karty"
+   },
+   "Customize": {
+      "message": "prispôsobenie"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Spätná väzba a návrh"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB Data"
+   },
+   "IndexedDB_info": {
+      "message": "Vymaže webové stránky IndexedDB údaje"
+   },
+   "Recommendation": {
+      "message": "odporúčanie"
+   },
+   "SelectAll": {
+      "message": "Vybrať všetko"
+   },
+   "SelectNone": {
+      "message": "Nevyber nič"
+   },
+   "Tabblad": {
+      "message": "pútko"
+   },
+   "aboutCleanMaster": {
+      "message": "O aplikácii Clean Master"
+   },
+   "aboutUs": {
+      "message": "O nás"
+   },
+   "appcache": {
+      "message": "Cache aplikácie"
+   },
+   "appcache_info": {
+      "message": "Vymaže údaje o webových aplikáciách"
+   },
+   "appdsc": {
+      "message": "Jedným kliknutím vyčistí vyrovnávaciu pamäť prehliadača a odpadky, chráni vaše súkromie a robí váš prehliadač rýchlejší a produktívnejší"
+   },
+   "apptitle": {
+      "message": "Clean Master: najlepší čistič cache v Chrome"
+   },
+   "asyc_error": {
+      "message": "Niektoré automaticky vyčistené údaje obnoví mechanizmus automatickej synchronizácie účtu Google."
+   },
+   "auto_sycn": {
+      "message": "Ak je funkcia Google Auto Sync zapnutá, po automatickej úprave budú údaje synchronizované spoločnosťou Google."
+   },
+   "cache": {
+      "message": "Cachované obrázky a súbory"
+   },
+   "cache_info": {
+      "message": "Vymaže cache prehliadača"
+   },
+   "cancel": {
+      "message": "Zrušiť"
+   },
+   "clean": {
+      "message": "Vyčistiť"
+   },
+   "cleani": {
+      "message": "čistý"
+   },
+   "cleaningup": {
+      "message": "Čistenie"
+   },
+   "click_auto_clean": {
+      "message": "Kliknutím na ikonu sa automaticky vyčistí"
+   },
+   "click_icon_clean": {
+      "message": "Vykonajte vyčistenie po kliknutí na ikonu"
+   },
+   "close_browser_clean": {
+      "message": "Zatvorte prehliadač automaticky vyčistiť"
+   },
+   "confirm": {
+      "message": "potvrdiť"
+   },
+   "contact": {
+      "message": "Kontakt"
+   },
+   "cookies": {
+      "message": "sušienky"
+   },
+   "cookies_info": {
+      "message": "Vymaže cookies prehliadača upravené v konkrétnom časovom rámci"
+   },
+   "cookies_prompt": {
+      "message": "Začiarknutím tohto políčka sa vymažú súbory cookie uložené v prehliadači. Potvrďte, či je začiarknuté."
+   },
+   "datatoremove": {
+      "message": "Údaje na odstránenie"
+   },
+   "donate": {
+      "message": "Prispieť"
+   },
+   "downloads": {
+      "message": "História sťahovania"
+   },
+   "downloads_info": {
+      "message": "Vymaže zoznam prehliadačov stiahnutých súborov (nie samotné sťahované súbory)"
+   },
+   "everything": {
+      "message": "všetko"
+   },
+   "fileSystems": {
+      "message": "Súborové systémy súborov"
+   },
+   "fileSystems_info": {
+      "message": "Vymaže údaje súborového súboru systému"
+   },
+   "formData": {
+      "message": "Dátové formuláre automatického dopĺňania"
+   },
+   "formData_info": {
+      "message": "Vymaže prehliadač uložené údaje formulára"
+   },
+   "formData_prompt": {
+      "message": "Začiarknutím tohto políčka sa vymažú údaje formulára uložené v prehliadači. Potvrďte, či je začiarknuté."
+   },
+   "go_to_settings": {
+      "message": "Choď do nastavení"
+   },
+   "history": {
+      "message": "Prehladavat historiu"
+   },
+   "history_info": {
+      "message": "Vymaže históriu prehliadača"
+   },
+   "lastday": {
+      "message": "Posledný deň"
+   },
+   "lasthour": {
+      "message": "Posledná hodina"
+   },
+   "lastmonth": {
+      "message": "Minulý mesiac"
+   },
+   "lastweek": {
+      "message": "Minulý týždeň"
+   },
+   "localStorage": {
+      "message": "Miestne údaje o ukladaní"
+   },
+   "localStorage_info": {
+      "message": "Vymaže miestne údaje úložiska webových stránok"
+   },
+   "open_browser_clean": {
+      "message": "Otvorte prehliadač, aby sa automaticky vyčistil"
+   },
+   "option": {
+      "message": "voľba"
+   },
+   "passwords": {
+      "message": "Uložené heslá"
+   },
+   "passwords_info": {
+      "message": "Vymaže heslá uložené v prehliadači"
+   },
+   "passwords_prompt": {
+      "message": "Začiarknutím tohto políčka vymažete účet a heslo pre uloženie prihlasovacích údajov do prehliadača. Potvrďte, či je začiarknuté."
+   },
+   "pluginData": {
+      "message": "Plugin Data"
+   },
+   "pluginData_info": {
+      "message": "Vymaže údaje o ukladacom priestore prehliadača"
+   },
+   "praise": {
+      "message": "Päťhviezdičková pochvala"
+   },
+   "privacyPolicy": {
+      "message": "Ochrana súkromia"
+   },
+   "prompt": {
+      "message": "prompt"
+   },
+   "rating_button_tate": {
+      "message": "Hodnotiť"
+   },
+   "say": {
+      "message": "Mám čo povedať"
+   },
+   "share": {
+      "message": "Zdieľať"
+   },
+   "shareFriends": {
+      "message": "Zdieľajte nás so svojimi priateľmi!"
+   },
+   "supportUs": {
+      "message": "Vaša podpora je pre nás veľkou podporou"
+   },
+   "termsOfUse": {
+      "message": "Podmienky používania"
+   },
+   "timePeriod": {
+      "message": "Časový úsek"
+   },
+   "trackerTitle": {
+      "message": "potenciálny sledovač"
+   },
+   "unselect_all": {
+      "message": "odznačiť všetko"
+   },
+   "usproductokey": {
+      "message": "Naše výrobky sú v poriadku?"
+   },
+   "webSQL": {
+      "message": "Web SQL Data"
+   },
+   "webSQL_info": {
+      "message": "Vymaže webové stránky WebSQL"
+   }
+}

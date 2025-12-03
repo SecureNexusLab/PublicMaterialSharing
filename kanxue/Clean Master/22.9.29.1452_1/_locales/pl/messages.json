@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Zaawansowane opcje"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Zezwalaj na usuwanie stałych zakładek"
+   },
+   "Automatic_clean": {
+      "message": "Automatyczne czyszczenie"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Sprzątanie zakończone"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Zamknij inne zakładki przed czyszczeniem"
+   },
+   "Customize": {
+      "message": "Dostosuj"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Informacje zwrotne i sugestie"
+   },
+   "IndexedDB": {
+      "message": "Dane IndexedDB"
+   },
+   "IndexedDB_info": {
+      "message": "Czyści dane IndexedDB witryny"
+   },
+   "Recommendation": {
+      "message": "Zalecenie"
+   },
+   "SelectAll": {
+      "message": "Zaznacz wszystko"
+   },
+   "SelectNone": {
+      "message": "Wybierz Brak"
+   },
+   "Tabblad": {
+      "message": "Tab"
+   },
+   "aboutCleanMaster": {
+      "message": "Informacje o Clean Master"
+   },
+   "aboutUs": {
+      "message": "O nas"
+   },
+   "appcache": {
+      "message": "Pamięć podręczna aplikacji"
+   },
+   "appcache_info": {
+      "message": "Czyści dane aplikacji appcache"
+   },
+   "appdsc": {
+      "message": "Jedno kliknięcie czyści pamięć podręczną przeglądarki i kosz, chroni twoją prywatność i sprawia, że twoja przeglądarka jest szybsza i wydajniejsza"
+   },
+   "apptitle": {
+      "message": "Clean Master: Najlepszy Cleaner Chrome Cache"
+   },
+   "asyc_error": {
+      "message": "Niektóre automatycznie wyczyszczone dane zostaną przywrócone przez mechanizm automatycznej synchronizacji konta Google."
+   },
+   "auto_sycn": {
+      "message": "Jeśli Google Auto Sync jest włączony, dane zostaną zsynchronizowane przez Google po automatycznym oczyszczeniu."
+   },
+   "cache": {
+      "message": "Zapisane obrazy i pliki"
+   },
+   "cache_info": {
+      "message": "Czyści pamięć podręczną przeglądarki"
+   },
+   "cancel": {
+      "message": "Anuluj"
+   },
+   "clean": {
+      "message": "Przyzwoite"
+   },
+   "cleani": {
+      "message": "Czysty"
+   },
+   "cleaningup": {
+      "message": "Sprzątanie"
+   },
+   "click_auto_clean": {
+      "message": "Kliknij ikonę, aby automatycznie wyczyścić"
+   },
+   "click_icon_clean": {
+      "message": "Wykonaj porządkowanie po kliknięciu ikony"
+   },
+   "close_browser_clean": {
+      "message": "Zamknij przeglądarkę automatycznie"
+   },
+   "confirm": {
+      "message": "Potwierdzać"
+   },
+   "contact": {
+      "message": "Kontakt"
+   },
+   "cookies": {
+      "message": "Cookies"
+   },
+   "cookies_info": {
+      "message": "Czyści pliki cookie przeglądarki zmodyfikowane w określonym przedziale czasowym"
+   },
+   "cookies_prompt": {
+      "message": "Zaznaczenie tego pola spowoduje wyczyszczenie plików cookie zapisanych w przeglądarce. Potwierdź, czy jest zaznaczona."
+   },
+   "datatoremove": {
+      "message": "Dane do usunięcia"
+   },
+   "donate": {
+      "message": "Daj datek"
+   },
+   "downloads": {
+      "message": "Pobierz historię"
+   },
+   "downloads_info": {
+      "message": "Czyści listę pobranych plików przeglądarki (nie same pobrane pliki)"
+   },
+   "everything": {
+      "message": "Wszystko"
+   },
+   "fileSystems": {
+      "message": "Systemy plików stron internetowych"
+   },
+   "fileSystems_info": {
+      "message": "Czyści dane systemu plików witryny"
+   },
+   "formData": {
+      "message": "Wypełnij formularz danych"
+   },
+   "formData_info": {
+      "message": "Czyści dane przechowywane w formularzu przeglądarki"
+   },
+   "formData_prompt": {
+      "message": "Zaznaczenie tego pola spowoduje wyczyszczenie danych formularza zapisanych przez przeglądarkę. Potwierdź, czy jest zaznaczona."
+   },
+   "go_to_settings": {
+      "message": "Przejdź do ustawień"
+   },
+   "history": {
+      "message": "Historia przeglądania"
+   },
+   "history_info": {
+      "message": "Czyści historię przeglądarki"
+   },
+   "lastday": {
+      "message": "Ostatni dzień"
+   },
+   "lasthour": {
+      "message": "Ostatnia godzina"
+   },
+   "lastmonth": {
+      "message": "W zeszłym miesiącu"
+   },
+   "lastweek": {
+      "message": "Zeszły tydzień"
+   },
+   "localStorage": {
+      "message": "Lokalne przechowywanie danych"
+   },
+   "localStorage_info": {
+      "message": "Czyści dane lokalne magazynu lokacji"
+   },
+   "open_browser_clean": {
+      "message": "Otwórz przeglądarkę, aby automatycznie wyczyścić"
+   },
+   "option": {
+      "message": "Opcja"
+   },
+   "passwords": {
+      "message": "Zapisane hasła"
+   },
+   "passwords_info": {
+      "message": "Czyści hasła przechowywane w przeglądarce"
+   },
+   "passwords_prompt": {
+      "message": "Zaznacz to pole, aby wyczyścić konto i hasło do zapisywania danych logowania w przeglądarce. Potwierdź, czy jest zaznaczona."
+   },
+   "pluginData": {
+      "message": "Dane wtyczki"
+   },
+   "pluginData_info": {
+      "message": "Czyści dane pamięci wtyczki przeglądarki"
+   },
+   "praise": {
+      "message": "Pięciogwiazdkowe pochwały"
+   },
+   "privacyPolicy": {
+      "message": "Ochrona prywatności"
+   },
+   "prompt": {
+      "message": "Skłonić"
+   },
+   "rating_button_tate": {
+      "message": "Oceń"
+   },
+   "say": {
+      "message": "mam coś do powiedzenia"
+   },
+   "share": {
+      "message": "Udostępnij"
+   },
+   "shareFriends": {
+      "message": "Podziel się z nami swoimi przyjaciółmi!"
+   },
+   "supportUs": {
+      "message": "Twoje wsparcie jest dla nas wielką zachętą"
+   },
+   "termsOfUse": {
+      "message": "Warunki korzystania"
+   },
+   "timePeriod": {
+      "message": "Okres czasu"
+   },
+   "trackerTitle": {
+      "message": "potencjalny tropiciel"
+   },
+   "unselect_all": {
+      "message": "odznacz wszystko"
+   },
+   "usproductokey": {
+      "message": "Nasze produkty są w porządku z tym?"
+   },
+   "webSQL": {
+      "message": "Web SQL Data"
+   },
+   "webSQL_info": {
+      "message": "Czyści dane WebSQL z witryny"
+   }
+}

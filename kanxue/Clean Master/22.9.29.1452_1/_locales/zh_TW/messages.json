@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "進階選項"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "允許清除固定標籤頁"
+   },
+   "Automatic_clean": {
+      "message": "自動清理"
+   },
+   "CleanMaster": {
+      "message": "Chrome清理大師"
+   },
+   "CleanUpCompleted": {
+      "message": "清理完成"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "清理前關閉其他標籤頁"
+   },
+   "Customize": {
+      "message": "自訂"
+   },
+   "FeedbackandSuggestion": {
+      "message": "意見回饋與建議"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB 資料"
+   },
+   "IndexedDB_info": {
+      "message": "清除網站的IndexedDB資料"
+   },
+   "Recommendation": {
+      "message": "推薦項目"
+   },
+   "SelectAll": {
+      "message": "全選"
+   },
+   "SelectNone": {
+      "message": "全部取消選取"
+   },
+   "Tabblad": {
+      "message": "標籤頁"
+   },
+   "aboutCleanMaster": {
+      "message": "關於 Clean Master"
+   },
+   "aboutUs": {
+      "message": "關於我們"
+   },
+   "appcache": {
+      "message": "應用程式快取"
+   },
+   "appcache_info": {
+      "message": "清除網站的應用程式快取資料"
+   },
+   "appdsc": {
+      "message": "一鍵清理您的瀏覽器快取和垃圾，保護您的隱私，並使您的瀏覽器更快，更高效"
+   },
+   "apptitle": {
+      "message": "Chrome清理大師：一鍵清理瀏覽器垃圾，讓您的Chrome更快"
+   },
+   "asyc_error": {
+      "message": "部分自動清理的數據將被Google賬戶自動同步機制恢復。"
+   },
+   "auto_sycn": {
+      "message": "如果開啟了Google自動同步，自動清理後數據將會被Google給同步回來"
+   },
+   "cache": {
+      "message": "快取圖片和檔案"
+   },
+   "cache_info": {
+      "message": "清除瀏覽器的快取"
+   },
+   "cancel": {
+      "message": "關閉"
+   },
+   "clean": {
+      "message": "清理"
+   },
+   "cleani": {
+      "message": "一鍵清理"
+   },
+   "cleaningup": {
+      "message": "正在清理"
+   },
+   "click_auto_clean": {
+      "message": "點擊圖標自動清理"
+   },
+   "click_icon_clean": {
+      "message": "點擊圖標時執行清理"
+   },
+   "close_browser_clean": {
+      "message": "關閉瀏覽器自動清理"
+   },
+   "confirm": {
+      "message": "確認勾選"
+   },
+   "contact": {
+      "message": "聯絡資訊"
+   },
+   "cookies": {
+      "message": "Cookies"
+   },
+   "cookies_info": {
+      "message": "清除在特定時間範圍內變更的瀏覽器Cookie"
+   },
+   "cookies_prompt": {
+      "message": "勾選此項將會清理瀏覽器保存的Cookies，請你確認是否勾選"
+   },
+   "datatoremove": {
+      "message": "清除的資料"
+   },
+   "donate": {
+      "message": "捐款"
+   },
+   "downloads": {
+      "message": "下載記錄"
+   },
+   "downloads_info": {
+      "message": "清除瀏覽器下載的檔案清單"
+   },
+   "everything": {
+      "message": "全部"
+   },
+   "fileSystems": {
+      "message": "網站檔案系統"
+   },
+   "fileSystems_info": {
+      "message": "清除網站的檔案系統資料"
+   },
+   "formData": {
+      "message": "自動填入表單資料"
+   },
+   "formData_info": {
+      "message": "清除瀏覽器儲存的表單資料"
+   },
+   "formData_prompt": {
+      "message": "勾選此項將會清理瀏覽器保存的表單數據，請你確認是否勾選"
+   },
+   "go_to_settings": {
+      "message": "前往設置"
+   },
+   "history": {
+      "message": "瀏覽歷史記錄"
+   },
+   "history_info": {
+      "message": "清除瀏覽器的歷史記錄"
+   },
+   "lastday": {
+      "message": "一天內"
+   },
+   "lasthour": {
+      "message": "一小時內"
+   },
+   "lastmonth": {
+      "message": "一個月內"
+   },
+   "lastweek": {
+      "message": "一週內"
+   },
+   "localStorage": {
+      "message": "本機儲存資料"
+   },
+   "localStorage_info": {
+      "message": "清除網站的本機儲存資料"
+   },
+   "open_browser_clean": {
+      "message": "開啟瀏覽器自動清理"
+   },
+   "option": {
+      "message": "選項"
+   },
+   "passwords": {
+      "message": "保存密碼"
+   },
+   "passwords_info": {
+      "message": "清除瀏覽器儲存的密碼"
+   },
+   "passwords_prompt": {
+      "message": "勾選此項將會清理瀏覽器保存登錄的賬號和密碼，請你確認是否勾選"
+   },
+   "pluginData": {
+      "message": "外掛程式儲存資料"
+   },
+   "pluginData_info": {
+      "message": "清除外掛程式儲存資料"
+   },
+   "praise": {
+      "message": "五星好評"
+   },
+   "privacyPolicy": {
+      "message": "隱私權條款"
+   },
+   "prompt": {
+      "message": "提示"
+   },
+   "rating_button_tate": {
+      "message": "評分"
+   },
+   "say": {
+      "message": "我有話說"
+   },
+   "share": {
+      "message": "分享"
+   },
+   "shareFriends": {
+      "message": "分享我們給你的朋友吧！"
+   },
+   "supportUs": {
+      "message": "您的支持是對我們最大的肯定"
+   },
+   "termsOfUse": {
+      "message": "使用條款"
+   },
+   "timePeriod": {
+      "message": "時間範圍"
+   },
+   "trackerTitle": {
+      "message": "潛在的追踪器"
+   },
+   "unselect_all": {
+      "message": "全部取消選取"
+   },
+   "usproductokey": {
+      "message": "我們的產品好用嗎？"
+   },
+   "webSQL": {
+      "message": "Web SQL資料"
+   },
+   "webSQL_info": {
+      "message": "清除網站的WebSQL資料"
+   }
+}

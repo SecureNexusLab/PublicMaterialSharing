@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Розширені опції"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Дозволити очищення фіксованих вкладок"
+   },
+   "Automatic_clean": {
+      "message": "Автоматична чистка"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Очищення завершено"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Зачиніть інші вкладки перед очищенням"
+   },
+   "Customize": {
+      "message": "Налаштувати"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Відгук і пропозиція"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB Data"
+   },
+   "IndexedDB_info": {
+      "message": "Очищає дані сайту IndexedDB"
+   },
+   "Recommendation": {
+      "message": "Рекомендація"
+   },
+   "SelectAll": {
+      "message": "Вибрати все"
+   },
+   "SelectNone": {
+      "message": "Виберіть Ніхто"
+   },
+   "Tabblad": {
+      "message": "Таб"
+   },
+   "aboutCleanMaster": {
+      "message": "Про Clean Master"
+   },
+   "aboutUs": {
+      "message": "Про нас"
+   },
+   "appcache": {
+      "message": "Кеш додатків"
+   },
+   "appcache_info": {
+      "message": "Очищає дані веб-сайту appcache"
+   },
+   "appdsc": {
+      "message": "Один клік очищає кеш-пам'ять вашого веб-переглядача та кошик, захищає вашу конфіденційність та робить ваш браузер більш продуктивним"
+   },
+   "apptitle": {
+      "message": "Clean Master: Найкращий очищувач кеш-пам'яті Chrome"
+   },
+   "asyc_error": {
+      "message": "Деякі автоматично очищені дані будуть відновлені механізмом автоматичної синхронізації облікового запису Google."
+   },
+   "auto_sycn": {
+      "message": "Якщо Google Auto Sync увімкнено, дані Google синхронізуються після автоматичного очищення."
+   },
+   "cache": {
+      "message": "Кешовані зображення та файли"
+   },
+   "cache_info": {
+      "message": "Очищає кеш браузера"
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "clean": {
+      "message": "Не відвертий"
+   },
+   "cleani": {
+      "message": "Чистий"
+   },
+   "cleaningup": {
+      "message": "Очищення"
+   },
+   "click_auto_clean": {
+      "message": "Натисніть піктограму, щоб автоматично очистити"
+   },
+   "click_icon_clean": {
+      "message": "Виконайте очищення, натиснувши піктограму"
+   },
+   "close_browser_clean": {
+      "message": "Закрити браузер автоматично очистити"
+   },
+   "confirm": {
+      "message": "Підтвердьте"
+   },
+   "contact": {
+      "message": "Зв’язатися"
+   },
+   "cookies": {
+      "message": "печиво"
+   },
+   "cookies_info": {
+      "message": "Видаляє файли cookie, модифіковані протягом певного періоду часу"
+   },
+   "cookies_prompt": {
+      "message": "Якщо встановити цей прапорець, буде видалено куки, збережені в браузері. Будь ласка, підтвердьте, чи це перевірено."
+   },
+   "datatoremove": {
+      "message": "Дані для видалення"
+   },
+   "donate": {
+      "message": "Зробити внесок"
+   },
+   "downloads": {
+      "message": "Завантажити історію"
+   },
+   "downloads_info": {
+      "message": "Очищає список завантажених файлів браузера (а не самі завантажені файли)."
+   },
+   "everything": {
+      "message": "Все"
+   },
+   "fileSystems": {
+      "message": "Файлові системи веб-сайту"
+   },
+   "fileSystems_info": {
+      "message": "Очищає дані файлової системи веб-сайту"
+   },
+   "formData": {
+      "message": "Автозаповнення даних форми"
+   },
+   "formData_info": {
+      "message": "Очищає веб-переглядач збережених даних форми"
+   },
+   "formData_prompt": {
+      "message": "Перевіряючи цей прапорець, буде видалено дані форми, збережені браузером. Будь ласка, підтвердьте, чи це перевірено."
+   },
+   "go_to_settings": {
+      "message": "Перейти до налаштувань"
+   },
+   "history": {
+      "message": "Перегляд історії"
+   },
+   "history_info": {
+      "message": "Очищає історію веб-переглядача"
+   },
+   "lastday": {
+      "message": "Останній день"
+   },
+   "lasthour": {
+      "message": "Минулий час"
+   },
+   "lastmonth": {
+      "message": "Минулого місяця"
+   },
+   "lastweek": {
+      "message": "Минулого тижня"
+   },
+   "localStorage": {
+      "message": "Місцеві дані зберігання"
+   },
+   "localStorage_info": {
+      "message": "Очищає дані локального зберігання веб-сайту"
+   },
+   "open_browser_clean": {
+      "message": "Відкрийте браузер для автоматичного очищення"
+   },
+   "option": {
+      "message": "Варіант"
+   },
+   "passwords": {
+      "message": "Збережені паролі"
+   },
+   "passwords_info": {
+      "message": "Очищає броузер збережених паролів"
+   },
+   "passwords_prompt": {
+      "message": "Поставте цей прапорець, щоб видалити обліковий запис і пароль для збереження входу в браузері. Будь ласка, підтвердьте, чи це перевірено."
+   },
+   "pluginData": {
+      "message": "Дані плагіна"
+   },
+   "pluginData_info": {
+      "message": "Очищає дані пам'яті плагіна веб-переглядача"
+   },
+   "praise": {
+      "message": "П'ятизіркова похвала"
+   },
+   "privacyPolicy": {
+      "message": "Конфіденційність"
+   },
+   "prompt": {
+      "message": "Підказка"
+   },
+   "rating_button_tate": {
+      "message": "Оцінити"
+   },
+   "say": {
+      "message": "Я маю щось сказати"
+   },
+   "share": {
+      "message": "Надіслати"
+   },
+   "shareFriends": {
+      "message": "Поділіться з друзями!"
+   },
+   "supportUs": {
+      "message": "Ваша підтримка є великим заохоченням для нас"
+   },
+   "termsOfUse": {
+      "message": "Умови користування"
+   },
+   "timePeriod": {
+      "message": "Період часу"
+   },
+   "trackerTitle": {
+      "message": "потенційний трекер"
+   },
+   "unselect_all": {
+      "message": "скасувати вибір всіх"
+   },
+   "usproductokey": {
+      "message": "Наша продукція гаразд із цим?"
+   },
+   "webSQL": {
+      "message": "Веб-SQL-дані"
+   },
+   "webSQL_info": {
+      "message": "Очищає веб-сайт WebSQL"
+   }
+}

@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Opsi Lanjutan"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Biarkan membersihkan tab tetap"
+   },
+   "Automatic_clean": {
+      "message": "Otomatis bersih"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Bersihkan Selesai"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Tutup tab lain sebelum dibersihkan"
+   },
+   "Customize": {
+      "message": "Sesuaikan"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Umpan Balik dan Saran"
+   },
+   "IndexedDB": {
+      "message": "Data IndexedDB"
+   },
+   "IndexedDB_info": {
+      "message": "Menghapus data IndexedDB situs web"
+   },
+   "Recommendation": {
+      "message": "Rekomendasi"
+   },
+   "SelectAll": {
+      "message": "Pilih Semua"
+   },
+   "SelectNone": {
+      "message": "Pilih Tidak Ada"
+   },
+   "Tabblad": {
+      "message": "Tab"
+   },
+   "aboutCleanMaster": {
+      "message": "Tentang Guru Bersih"
+   },
+   "aboutUs": {
+      "message": "Tentang kami"
+   },
+   "appcache": {
+      "message": "Cache Aplikasi"
+   },
+   "appcache_info": {
+      "message": "Menghapus data appcache situs web"
+   },
+   "appdsc": {
+      "message": "Satu klik membersihkan cache dan sampah browser Anda, melindungi privasi Anda, dan membuat peramban Anda lebih cepat dan produktif"
+   },
+   "apptitle": {
+      "message": "Clean Master: Pembersih Cache Chrome Terbaik"
+   },
+   "asyc_error": {
+      "message": "Beberapa data yang dibersihkan secara otomatis akan dipulihkan oleh mekanisme sinkronisasi otomatis akun Google."
+   },
+   "auto_sycn": {
+      "message": "Jika Google Auto Sync dihidupkan, data akan disinkronkan kembali oleh Google setelah pembersihan otomatis."
+   },
+   "cache": {
+      "message": "Gambar dan File Singgahan"
+   },
+   "cache_info": {
+      "message": "Menghapus cache browser"
+   },
+   "cancel": {
+      "message": "Membatalkan"
+   },
+   "clean": {
+      "message": "Bersihkan"
+   },
+   "cleani": {
+      "message": "Bersih"
+   },
+   "cleaningup": {
+      "message": "Membersihkan"
+   },
+   "click_auto_clean": {
+      "message": "Klik ikon untuk membersihkan secara otomatis"
+   },
+   "click_icon_clean": {
+      "message": "Lakukan pembersihan saat mengklik ikon"
+   },
+   "close_browser_clean": {
+      "message": "Tutup browser secara otomatis bersihkan"
+   },
+   "confirm": {
+      "message": "Memastikan"
+   },
+   "contact": {
+      "message": "Kontak"
+   },
+   "cookies": {
+      "message": "cookies"
+   },
+   "cookies_info": {
+      "message": "Menghapus cookie browser yang dimodifikasi dalam jangka waktu tertentu"
+   },
+   "cookies_prompt": {
+      "message": "Memeriksa kotak ini akan menghapus cookie yang disimpan di browser. Silakan konfirmasi apakah sudah dicentang."
+   },
+   "datatoremove": {
+      "message": "Data untuk Hapus"
+   },
+   "donate": {
+      "message": "Donasi"
+   },
+   "downloads": {
+      "message": "Unduh Sejarah"
+   },
+   "downloads_info": {
+      "message": "Menghapus daftar peramban dari file yang diunduh (bukan file yang diunduh sendiri)"
+   },
+   "everything": {
+      "message": "Segala sesuatu"
+   },
+   "fileSystems": {
+      "message": "Sistem File Situs Web"
+   },
+   "fileSystems_info": {
+      "message": "Menghapus data file sistem situs web"
+   },
+   "formData": {
+      "message": "IsiOtomatis membentuk Data"
+   },
+   "formData_info": {
+      "message": "Menghapus data formulir yang tersimpan di browser"
+   },
+   "formData_prompt": {
+      "message": "Memeriksa kotak ini akan menghapus data formulir yang disimpan oleh browser. Silakan konfirmasi apakah sudah dicentang."
+   },
+   "go_to_settings": {
+      "message": "Pergi ke pengaturan"
+   },
+   "history": {
+      "message": "Sejarah Penjelajahan"
+   },
+   "history_info": {
+      "message": "Menghapus riwayat browser"
+   },
+   "lastday": {
+      "message": "Hari terakhir"
+   },
+   "lasthour": {
+      "message": "Jam terakhir"
+   },
+   "lastmonth": {
+      "message": "Bulan lalu"
+   },
+   "lastweek": {
+      "message": "Minggu lalu"
+   },
+   "localStorage": {
+      "message": "Data Penyimpanan Lokal"
+   },
+   "localStorage_info": {
+      "message": "Menghapus data penyimpanan lokal situs web"
+   },
+   "open_browser_clean": {
+      "message": "Buka browser untuk membersihkan secara otomatis"
+   },
+   "option": {
+      "message": "Pilihan"
+   },
+   "passwords": {
+      "message": "Kata Sandi Tersimpan"
+   },
+   "passwords_info": {
+      "message": "Menghapus kata sandi yang tersimpan di browser"
+   },
+   "passwords_prompt": {
+      "message": "Centang kotak ini akan menghapus akun dan kata sandi untuk menyimpan login di browser. Silakan konfirmasi apakah sudah dicentang."
+   },
+   "pluginData": {
+      "message": "Data Plugin"
+   },
+   "pluginData_info": {
+      "message": "Menghapus data penyimpanan plugin browser"
+   },
+   "praise": {
+      "message": "Pujian bintang lima"
+   },
+   "privacyPolicy": {
+      "message": "Kebijakan Privasi"
+   },
+   "prompt": {
+      "message": "Cepat"
+   },
+   "rating_button_tate": {
+      "message": "Nilai"
+   },
+   "say": {
+      "message": "Saya punya sesuatu untuk dikatakan"
+   },
+   "share": {
+      "message": "Bagikan"
+   },
+   "shareFriends": {
+      "message": "Bagikan kami dengan teman-teman Anda!"
+   },
+   "supportUs": {
+      "message": "Dukungan Anda merupakan dorongan besar bagi kami"
+   },
+   "termsOfUse": {
+      "message": "Syarat Penggunaan"
+   },
+   "timePeriod": {
+      "message": "Jangka waktu"
+   },
+   "trackerTitle": {
+      "message": "pelacak potensial"
+   },
+   "unselect_all": {
+      "message": "batalkan semua"
+   },
+   "usproductokey": {
+      "message": "Produk kami baik-baik saja dengan itu?"
+   },
+   "webSQL": {
+      "message": "Data SQL Web"
+   },
+   "webSQL_info": {
+      "message": "Menghapus data WebSQL situs web"
+   }
+}

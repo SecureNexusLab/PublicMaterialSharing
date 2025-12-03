@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Avanserte alternativer"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Tillat rydding av faste faner"
+   },
+   "Automatic_clean": {
+      "message": "Automatisk ren"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Rydde opp Fullført"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Lukk andre faner før du rengjør"
+   },
+   "Customize": {
+      "message": "Tilpass"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Tilbakemelding og forslag"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB Data"
+   },
+   "IndexedDB_info": {
+      "message": "Slett nettsted IndexedDB data"
+   },
+   "Recommendation": {
+      "message": "Anbefaling"
+   },
+   "SelectAll": {
+      "message": "Velg alle"
+   },
+   "SelectNone": {
+      "message": "Velg ingen"
+   },
+   "Tabblad": {
+      "message": "tab"
+   },
+   "aboutCleanMaster": {
+      "message": "Om Clean Master"
+   },
+   "aboutUs": {
+      "message": "Om oss"
+   },
+   "appcache": {
+      "message": "Programmeringsbuffer"
+   },
+   "appcache_info": {
+      "message": "Slett nettstedens appcache-data"
+   },
+   "appdsc": {
+      "message": "Ett-klikk renser nettleserens buffer og søppel, beskytter personvernet ditt, og gjør nettleseren raskere og mer produktiv"
+   },
+   "apptitle": {
+      "message": "Clean Master: Den beste Chrome Cache Cleaner"
+   },
+   "asyc_error": {
+      "message": "Noen av de automatisk rengjorte dataene blir gjenopprettet av Google-kontoen automatisk synkroniserings-mekanisme."
+   },
+   "auto_sycn": {
+      "message": "Hvis Google Auto Sync er slått på, blir dataene synkronisert tilbake av Google etter den automatiske opprydningen."
+   },
+   "cache": {
+      "message": "Bufret bilder og filer"
+   },
+   "cache_info": {
+      "message": "Rydder nettleserens cache"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "clean": {
+      "message": "Anstendig"
+   },
+   "cleani": {
+      "message": "Ren"
+   },
+   "cleaningup": {
+      "message": "Rydder opp"
+   },
+   "click_auto_clean": {
+      "message": "Klikk på ikonet for å automatisk rydde opp"
+   },
+   "click_icon_clean": {
+      "message": "Utfør opprydding når du klikker på ikonet"
+   },
+   "close_browser_clean": {
+      "message": "Lukk nettleseren automatisk rydde opp"
+   },
+   "confirm": {
+      "message": "Bekrefte"
+   },
+   "contact": {
+      "message": "Kontakt"
+   },
+   "cookies": {
+      "message": "kjeks"
+   },
+   "cookies_info": {
+      "message": "Rydder nettleserkakene endret innen en bestemt tidsramme"
+   },
+   "cookies_prompt": {
+      "message": "Hvis du merker av denne boksen, slettes informasjonskapslene som er lagret i nettleseren. Vennligst bekreft om den er merket."
+   },
+   "datatoremove": {
+      "message": "Data å fjerne"
+   },
+   "donate": {
+      "message": "Doner"
+   },
+   "downloads": {
+      "message": "Last ned historikk"
+   },
+   "downloads_info": {
+      "message": "Rydder nettleserlisten over nedlastede filer (ikke de nedlastede filene selv)"
+   },
+   "everything": {
+      "message": "Alt"
+   },
+   "fileSystems": {
+      "message": "Nettstedets filsystemer"
+   },
+   "fileSystems_info": {
+      "message": "Slett nettstedets filsystemdata"
+   },
+   "formData": {
+      "message": "Autofyll skjema Data"
+   },
+   "formData_info": {
+      "message": "Slett nettleserens lagrede skjemadata"
+   },
+   "formData_prompt": {
+      "message": "Hvis du merker denne boksen, slettes skjemadataene som er lagret av nettleseren. Vennligst bekreft om den er merket."
+   },
+   "go_to_settings": {
+      "message": "Gå til Innstillinger"
+   },
+   "history": {
+      "message": "Nettleserlogg"
+   },
+   "history_info": {
+      "message": "Slett nettleserloggen"
+   },
+   "lastday": {
+      "message": "Siste dag"
+   },
+   "lasthour": {
+      "message": "Siste time"
+   },
+   "lastmonth": {
+      "message": "Forrige måned"
+   },
+   "lastweek": {
+      "message": "Forrige uke"
+   },
+   "localStorage": {
+      "message": "Lokale lagringsdata"
+   },
+   "localStorage_info": {
+      "message": "Slett nettstedets lokale lagringsdata"
+   },
+   "open_browser_clean": {
+      "message": "Åpne nettleseren for å automatisk rydde opp"
+   },
+   "option": {
+      "message": "Alternativ"
+   },
+   "passwords": {
+      "message": "Lagrede passord"
+   },
+   "passwords_info": {
+      "message": "Rydder nettleserens lagrede passord"
+   },
+   "passwords_prompt": {
+      "message": "Merk av i denne boksen vil du fjerne konto og passord for å lagre påloggingen i nettleseren. Vennligst bekreft om den er merket."
+   },
+   "pluginData": {
+      "message": "Plugin Data"
+   },
+   "pluginData_info": {
+      "message": "Slett lagringsdata for nettleserplugg"
+   },
+   "praise": {
+      "message": "Femstjerners ros"
+   },
+   "privacyPolicy": {
+      "message": "Personvern"
+   },
+   "prompt": {
+      "message": "prompt"
+   },
+   "rating_button_tate": {
+      "message": "Vurder"
+   },
+   "say": {
+      "message": "jeg har noe å si"
+   },
+   "share": {
+      "message": "Del"
+   },
+   "shareFriends": {
+      "message": "Del oss med dine venner!"
+   },
+   "supportUs": {
+      "message": "Din støtte er en stor oppmuntring til oss"
+   },
+   "termsOfUse": {
+      "message": "Vilkår for bruk"
+   },
+   "timePeriod": {
+      "message": "Tidsperiode"
+   },
+   "trackerTitle": {
+      "message": "potensiell tracker"
+   },
+   "unselect_all": {
+      "message": "Avmarker alt"
+   },
+   "usproductokey": {
+      "message": "Våre produkter er i orden med det?"
+   },
+   "webSQL": {
+      "message": "Web SQL-data"
+   },
+   "webSQL_info": {
+      "message": "Rydder WebSQL-data for nettsiden"
+   }
+}

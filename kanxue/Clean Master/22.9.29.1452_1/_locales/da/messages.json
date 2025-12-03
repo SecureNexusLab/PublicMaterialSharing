@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Avancerede indstillinger"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Tillad rydning af faste faner"
+   },
+   "Automatic_clean": {
+      "message": "Automatisk rengøring"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Ryd op Komplet"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Luk andre faner inden rengøring"
+   },
+   "Customize": {
+      "message": "Tilpas"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback og forslag"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB Data"
+   },
+   "IndexedDB_info": {
+      "message": "Rydder website IndexedDB data"
+   },
+   "Recommendation": {
+      "message": "Henstilling"
+   },
+   "SelectAll": {
+      "message": "Vælg alle"
+   },
+   "SelectNone": {
+      "message": "Vælg Ingen"
+   },
+   "Tabblad": {
+      "message": "fanen"
+   },
+   "aboutCleanMaster": {
+      "message": "Om Clean Master"
+   },
+   "aboutUs": {
+      "message": "Om os"
+   },
+   "appcache": {
+      "message": "Application Cache"
+   },
+   "appcache_info": {
+      "message": "Rydder webadressens appcache data"
+   },
+   "appdsc": {
+      "message": "Et klik renser browserens cache og skraldespanden, beskytter dit privatliv og gør din browser hurtigere og produktiv"
+   },
+   "apptitle": {
+      "message": "Clean Master: Den bedste Chrome Cache Cleaner"
+   },
+   "asyc_error": {
+      "message": "Nogle af de automatisk rengjorte data genoprettes af Google-kontoen automatisk synkroniseringsmekanisme."
+   },
+   "auto_sycn": {
+      "message": "Hvis Google Auto Sync er slået til, synkroniseres dataene fra Google efter den automatiske oprydning."
+   },
+   "cache": {
+      "message": "Cachelagrede billeder og filer"
+   },
+   "cache_info": {
+      "message": "Rydder browserens cache"
+   },
+   "cancel": {
+      "message": "Afbestille"
+   },
+   "clean": {
+      "message": "Godkendt"
+   },
+   "cleani": {
+      "message": "Ren"
+   },
+   "cleaningup": {
+      "message": "Gøre rent"
+   },
+   "click_auto_clean": {
+      "message": "Klik på ikonet for automatisk at rydde op"
+   },
+   "click_icon_clean": {
+      "message": "Udfør oprydning, når du klikker på ikonet"
+   },
+   "close_browser_clean": {
+      "message": "Luk browseren automatisk op"
+   },
+   "confirm": {
+      "message": "Bekræfte"
+   },
+   "contact": {
+      "message": "Navn"
+   },
+   "cookies": {
+      "message": "småkager"
+   },
+   "cookies_info": {
+      "message": "Rydder browserens cookies ændret inden for en bestemt tidsramme"
+   },
+   "cookies_prompt": {
+      "message": "Hvis du markerer dette felt, slettes de cookies, der er gemt i browseren. Bekræft venligst, om det er markeret."
+   },
+   "datatoremove": {
+      "message": "Data til fjernelse"
+   },
+   "donate": {
+      "message": "Doner"
+   },
+   "downloads": {
+      "message": "Downloadhistorik"
+   },
+   "downloads_info": {
+      "message": "Rydder browserlisten over downloadede filer (ikke de downloadede filer selv)"
+   },
+   "everything": {
+      "message": "Alt"
+   },
+   "fileSystems": {
+      "message": "Website File Systems"
+   },
+   "fileSystems_info": {
+      "message": "Rydder website fil system data"
+   },
+   "formData": {
+      "message": "Autofyld formulardata"
+   },
+   "formData_info": {
+      "message": "Rydder browserens lagrede formulardata"
+   },
+   "formData_prompt": {
+      "message": "Hvis du markerer dette felt, slettes formulardata, der er gemt af browseren. Bekræft venligst, om det er markeret."
+   },
+   "go_to_settings": {
+      "message": "Gå til indstillinger"
+   },
+   "history": {
+      "message": "Gennemse historie"
+   },
+   "history_info": {
+      "message": "Ryd browserhistorikken"
+   },
+   "lastday": {
+      "message": "Sidste dag"
+   },
+   "lasthour": {
+      "message": "Sidste time"
+   },
+   "lastmonth": {
+      "message": "Sidste måned"
+   },
+   "lastweek": {
+      "message": "Sidste uge"
+   },
+   "localStorage": {
+      "message": "Lokale lagerdata"
+   },
+   "localStorage_info": {
+      "message": "Rydder webstedets lokale lagerdata"
+   },
+   "open_browser_clean": {
+      "message": "Åbn browseren for automatisk at rydde op"
+   },
+   "option": {
+      "message": "Mulighed"
+   },
+   "passwords": {
+      "message": "Gemte adgangskoder"
+   },
+   "passwords_info": {
+      "message": "Rydder browserens gemte adgangskoder"
+   },
+   "passwords_prompt": {
+      "message": "Afkrydsningsfeltet vil slette kontoen og adgangskoden for at gemme login i browseren. Bekræft venligst, om det er markeret."
+   },
+   "pluginData": {
+      "message": "Plugin data"
+   },
+   "pluginData_info": {
+      "message": "Rydder opbevaringsdata for browser-plugin"
+   },
+   "praise": {
+      "message": "Femstjernes ros"
+   },
+   "privacyPolicy": {
+      "message": "Anonymitetspolitik"
+   },
+   "prompt": {
+      "message": "Hurtig"
+   },
+   "rating_button_tate": {
+      "message": "Vurdering"
+   },
+   "say": {
+      "message": "Jeg har noget at sige"
+   },
+   "share": {
+      "message": "Del"
+   },
+   "shareFriends": {
+      "message": "Del os med dine venner!"
+   },
+   "supportUs": {
+      "message": "Ihre Unterstützung ist eine große Ermutigung für uns"
+   },
+   "termsOfUse": {
+      "message": "Vilkår for brug"
+   },
+   "timePeriod": {
+      "message": "Tidsperiode"
+   },
+   "trackerTitle": {
+      "message": "potentiel tracker"
+   },
+   "unselect_all": {
+      "message": "fravælg alle"
+   },
+   "usproductokey": {
+      "message": "Vores produkter er okay med det?"
+   },
+   "webSQL": {
+      "message": "Web SQL data"
+   },
+   "webSQL_info": {
+      "message": "Rydder websitet WebSQL data"
+   }
+}

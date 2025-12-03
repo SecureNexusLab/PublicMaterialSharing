@@ -1,0 +1,37 @@
+{
+   "action": {
+      "default_icon": {
+         "32": "icon/32.png"
+      },
+      "default_popup": "popup/popup.html",
+      "default_title": "__MSG_apptitle__"
+   },
+   "background": {
+      "service_worker": "background/bg.js"
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self';"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appdsc__",
+   "devtools_page": "devtools/devtools-page.html",
+   "differential_fingerprint": "1.d371b9bc3af2d0314706a9f395b87661e572d5d4ccbf95a53465374818e5f7e6",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon/128.png",
+      "32": "icon/32.png",
+      "96": "icon/96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqBtCE2Z3MQzhsmzz4zLXIAMSBt2w9qavDqft9M6nh1RA10yLJO7JnQRAOI1Liz726if8JVM2iqHYgvSFY7JrArOkHar2y/sb0obIgjdTYPtYPHR36mdreN54DDohzMZmwKLo6YkN8KHzGfM8llybv9hVXOKDcszXR1P/sG/SwLRWwdqXsZBSgLgECyJXNIz+rLEzmVSJ1EpvwlE1mloaJIUM+wDi6Lpnd0FH+DBCjJxYRNJRA1iveBKdevjrmqJRDjou0yGKXUj6d9edBDAdhH/222UovPmjSpcOz8lcz6o3t2L/CIAJ7h4onWUIyw3XA7jPt90SdDIEeR/6IcHZOQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "88",
+   "name": "__MSG_apptitle__",
+   "offline_enabled": true,
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "option/option.html"
+   },
+   "permissions": [ "browsingData", "background", "storage", "webNavigation", "webRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "22.9.29.1452"
+}

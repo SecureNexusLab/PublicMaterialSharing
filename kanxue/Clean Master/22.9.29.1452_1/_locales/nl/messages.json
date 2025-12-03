@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Geavanceerde mogelijkheden"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Sta vastzetten van vaste tabbladen toe"
+   },
+   "Automatic_clean": {
+      "message": "Automatisch schoon"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Schoonmaken voltooid"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Sluit andere tabbladen voordat u gaat schoonmaken"
+   },
+   "Customize": {
+      "message": "Aanpassen"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback en suggestie"
+   },
+   "IndexedDB": {
+      "message": "GeïndexeerdeDB-gegevens"
+   },
+   "IndexedDB_info": {
+      "message": "Wist website IndexedDB data"
+   },
+   "Recommendation": {
+      "message": "Aanbeveling"
+   },
+   "SelectAll": {
+      "message": "Selecteer alles"
+   },
+   "SelectNone": {
+      "message": "Selecteer Geen"
+   },
+   "Tabblad": {
+      "message": "Tabblad"
+   },
+   "aboutCleanMaster": {
+      "message": "Over Clean Master"
+   },
+   "aboutUs": {
+      "message": "Over ons"
+   },
+   "appcache": {
+      "message": "Application Cache"
+   },
+   "appcache_info": {
+      "message": "Wist appcache-gegevens van websites"
+   },
+   "appdsc": {
+      "message": "Met één klik wordt uw browsercache en prullenbak gereinigd, wordt uw privacy beschermd en wordt uw browser sneller en productiever"
+   },
+   "apptitle": {
+      "message": "Clean Master: de beste Chrome Cache Cleaner"
+   },
+   "asyc_error": {
+      "message": "Sommige automatisch opgeschoonde gegevens worden hersteld door het automatische synchronisatiemechanisme van het Google-account."
+   },
+   "auto_sycn": {
+      "message": "Als Google Auto Sync is ingeschakeld, worden de gegevens na het automatisch opschonen door Google gesynchroniseerd."
+   },
+   "cache": {
+      "message": "Afbeeldingen en bestanden in cache"
+   },
+   "cache_info": {
+      "message": "Wist de browsercache"
+   },
+   "cancel": {
+      "message": "Annuleer"
+   },
+   "clean": {
+      "message": "Veilig"
+   },
+   "cleani": {
+      "message": "Schoon"
+   },
+   "cleaningup": {
+      "message": "Schoonmaken"
+   },
+   "click_auto_clean": {
+      "message": "Klik op het pictogram om automatisch op te ruimen"
+   },
+   "click_icon_clean": {
+      "message": "Voer opschoning uit wanneer u op het pictogram klikt"
+   },
+   "close_browser_clean": {
+      "message": "Sluit de browser automatisch opruimen"
+   },
+   "confirm": {
+      "message": "Bevestigen"
+   },
+   "contact": {
+      "message": "Contactgegevens"
+   },
+   "cookies": {
+      "message": "koekjes"
+   },
+   "cookies_info": {
+      "message": "Wist de browsercookies die zijn gewijzigd binnen een bepaald tijdsbestek"
+   },
+   "cookies_prompt": {
+      "message": "Als u dit selectievakje inschakelt, worden de cookies verwijderd die in de browser zijn opgeslagen. Controleer of het is aangevinkt."
+   },
+   "datatoremove": {
+      "message": "Gegevens om te verwijderen"
+   },
+   "donate": {
+      "message": "Doneer"
+   },
+   "downloads": {
+      "message": "Download geschiedenis"
+   },
+   "downloads_info": {
+      "message": "Wist de browserlijst van gedownloade bestanden (niet de gedownloade bestanden zelf)"
+   },
+   "everything": {
+      "message": "Alles"
+   },
+   "fileSystems": {
+      "message": "Website bestandssystemen"
+   },
+   "fileSystems_info": {
+      "message": "Wist de systeemgegevens van de websitebestand"
+   },
+   "formData": {
+      "message": "Formuliergegevens automatisch aanvullen"
+   },
+   "formData_info": {
+      "message": "Wist de browser opgeslagen formuliergegevens"
+   },
+   "formData_prompt": {
+      "message": "Als u dit selectievakje inschakelt, worden de formuliergegevens verwijderd die door de browser zijn opgeslagen. Controleer of het is aangevinkt."
+   },
+   "go_to_settings": {
+      "message": "Ga naar Instellingen"
+   },
+   "history": {
+      "message": "Browsegeschiedenis"
+   },
+   "history_info": {
+      "message": "Wist de browsergeschiedenis"
+   },
+   "lastday": {
+      "message": "Laatste dag"
+   },
+   "lasthour": {
+      "message": "Laatste uur"
+   },
+   "lastmonth": {
+      "message": "Vorige maand"
+   },
+   "lastweek": {
+      "message": "Vorige week"
+   },
+   "localStorage": {
+      "message": "Lokale opslaggegevens"
+   },
+   "localStorage_info": {
+      "message": "Wist de lokale opslaggegevens van de website"
+   },
+   "open_browser_clean": {
+      "message": "Open de browser om automatisch op te ruimen"
+   },
+   "option": {
+      "message": "Keuze"
+   },
+   "passwords": {
+      "message": "Opgeslagen wachtwoorden"
+   },
+   "passwords_info": {
+      "message": "Wist de door de browser opgeslagen wachtwoorden"
+   },
+   "passwords_prompt": {
+      "message": "Schakel dit selectievakje in om het account en wachtwoord voor het opslaan van de login in de browser te wissen. Controleer of het is aangevinkt."
+   },
+   "pluginData": {
+      "message": "Gegevens invoegen"
+   },
+   "pluginData_info": {
+      "message": "Wist de opslaggegevens van de browserplug-in"
+   },
+   "praise": {
+      "message": "Vijf sterren lof"
+   },
+   "privacyPolicy": {
+      "message": "Privacybeleid"
+   },
+   "prompt": {
+      "message": "prompt"
+   },
+   "rating_button_tate": {
+      "message": "Beoordeel"
+   },
+   "say": {
+      "message": "ik moet je iets vertellen"
+   },
+   "share": {
+      "message": "Delen"
+   },
+   "shareFriends": {
+      "message": "Deel ons met je vrienden!"
+   },
+   "supportUs": {
+      "message": "Uw steun is een grote aanmoediging voor ons"
+   },
+   "termsOfUse": {
+      "message": "Gebruiksvoorwaarden"
+   },
+   "timePeriod": {
+      "message": "Tijdsperiode"
+   },
+   "trackerTitle": {
+      "message": "potentiële tracker"
+   },
+   "unselect_all": {
+      "message": "alles uitvinken"
+   },
+   "usproductokey": {
+      "message": "Onze producten zijn oké?"
+   },
+   "webSQL": {
+      "message": "Web SQL-gegevens"
+   },
+   "webSQL_info": {
+      "message": "Wist website WebSQL-gegevens"
+   }
+}

@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Options avancées"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Autoriser la suppression des onglets fixes"
+   },
+   "Automatic_clean": {
+      "message": "Nettoyage automatique"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Nettoyer Terminé"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Fermez les autres onglets avant de nettoyer"
+   },
+   "Customize": {
+      "message": "Personnaliser"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Commentaires et suggestions"
+   },
+   "IndexedDB": {
+      "message": "Données indexéesDB"
+   },
+   "IndexedDB_info": {
+      "message": "Efface les données du site Web IndexedDB"
+   },
+   "Recommendation": {
+      "message": "Recommandation"
+   },
+   "SelectAll": {
+      "message": "Tout sélectionner"
+   },
+   "SelectNone": {
+      "message": "Ne rien sélectionner"
+   },
+   "Tabblad": {
+      "message": "Onglet"
+   },
+   "aboutCleanMaster": {
+      "message": "A propos de Clean Master"
+   },
+   "aboutUs": {
+      "message": "À propos de nous"
+   },
+   "appcache": {
+      "message": "Cache de l'application"
+   },
+   "appcache_info": {
+      "message": "Efface les données d'application du site Web"
+   },
+   "appdsc": {
+      "message": "Un clic nettoie le cache et la corbeille de votre navigateur, protège votre vie privée et rend votre navigateur plus rapide et productif"
+   },
+   "apptitle": {
+      "message": "Clean Master: le meilleur nettoyeur de cache Chrome"
+   },
+   "asyc_error": {
+      "message": "Certaines des données automatiquement nettoyées seront restaurées par le mécanisme de synchronisation automatique du compte Google."
+   },
+   "auto_sycn": {
+      "message": "Si Google Auto Sync est activé, les données seront synchronisées par Google après le nettoyage automatique."
+   },
+   "cache": {
+      "message": "Images et fichiers mis en cache"
+   },
+   "cache_info": {
+      "message": "Efface le cache du navigateur"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "clean": {
+      "message": "Tout public"
+   },
+   "cleani": {
+      "message": "Nettoyer"
+   },
+   "cleaningup": {
+      "message": "Nettoyer"
+   },
+   "click_auto_clean": {
+      "message": "Cliquez sur l'icône pour nettoyer automatiquement"
+   },
+   "click_icon_clean": {
+      "message": "Effectuer un nettoyage en cliquant sur l'icône"
+   },
+   "close_browser_clean": {
+      "message": "Fermez automatiquement le navigateur"
+   },
+   "confirm": {
+      "message": "Confirmer"
+   },
+   "contact": {
+      "message": "Contact"
+   },
+   "cookies": {
+      "message": "cookies"
+   },
+   "cookies_info": {
+      "message": "Efface les cookies du navigateur modifiés dans un délai donné"
+   },
+   "cookies_prompt": {
+      "message": "Cocher cette case effacera les cookies enregistrés dans le navigateur. Veuillez confirmer s'il est coché."
+   },
+   "datatoremove": {
+      "message": "Données à supprimer"
+   },
+   "donate": {
+      "message": "Faire un don"
+   },
+   "downloads": {
+      "message": "Historique des téléchargements"
+   },
+   "downloads_info": {
+      "message": "Efface la liste des fichiers téléchargés dans le navigateur (pas les fichiers téléchargés eux-mêmes)"
+   },
+   "everything": {
+      "message": "Tout"
+   },
+   "fileSystems": {
+      "message": "Systèmes de fichiers de site Web"
+   },
+   "fileSystems_info": {
+      "message": "Efface les données du système de fichiers du site Web"
+   },
+   "formData": {
+      "message": "Remplissage automatique des données"
+   },
+   "formData_info": {
+      "message": "Efface les données de formulaire stockées dans le navigateur"
+   },
+   "formData_prompt": {
+      "message": "Cochez cette case pour effacer les données de formulaire enregistrées par le navigateur. Veuillez confirmer s'il est coché."
+   },
+   "go_to_settings": {
+      "message": "Aller aux paramètres"
+   },
+   "history": {
+      "message": "Historique de navigation"
+   },
+   "history_info": {
+      "message": "Efface l'historique du navigateur"
+   },
+   "lastday": {
+      "message": "Dernier jour"
+   },
+   "lasthour": {
+      "message": "Dernière heure"
+   },
+   "lastmonth": {
+      "message": "Le mois dernier"
+   },
+   "lastweek": {
+      "message": "La semaine dernière"
+   },
+   "localStorage": {
+      "message": "Données de stockage local"
+   },
+   "localStorage_info": {
+      "message": "Efface les données de stockage local du site Web"
+   },
+   "open_browser_clean": {
+      "message": "Ouvrez le navigateur pour nettoyer automatiquement"
+   },
+   "option": {
+      "message": "Option"
+   },
+   "passwords": {
+      "message": "Mots de passe enregistrés"
+   },
+   "passwords_info": {
+      "message": "Efface les mots de passe stockés dans le navigateur"
+   },
+   "passwords_prompt": {
+      "message": "Cochez cette case pour effacer le compte et le mot de passe pour enregistrer la connexion dans le navigateur. Veuillez confirmer s'il est coché."
+   },
+   "pluginData": {
+      "message": "Données du plugin"
+   },
+   "pluginData_info": {
+      "message": "Efface les données de stockage du plug-in du navigateur"
+   },
+   "praise": {
+      "message": "Louanges cinq étoiles"
+   },
+   "privacyPolicy": {
+      "message": "Confidentialité"
+   },
+   "prompt": {
+      "message": "Rapide"
+   },
+   "rating_button_tate": {
+      "message": "Noter"
+   },
+   "say": {
+      "message": "J'ai quelque chose à dire"
+   },
+   "share": {
+      "message": "Partager"
+   },
+   "shareFriends": {
+      "message": "Partagez-nous avec vos amis!"
+   },
+   "supportUs": {
+      "message": "Votre soutien est un grand encouragement pour nous"
+   },
+   "termsOfUse": {
+      "message": "Conditions d'utilisation"
+   },
+   "timePeriod": {
+      "message": "Période de temps"
+   },
+   "trackerTitle": {
+      "message": "traqueur potentiel"
+   },
+   "unselect_all": {
+      "message": "tout déselectionner"
+   },
+   "usproductokey": {
+      "message": "Nos produits sont d'accord avec cela?"
+   },
+   "webSQL": {
+      "message": "Données SQL Web"
+   },
+   "webSQL_info": {
+      "message": "Efface les données WebSQL du site Web"
+   }
+}

@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Avancerade alternativ"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Tillåt rensning av fasta flikar"
+   },
+   "Automatic_clean": {
+      "message": "Automatisk rengöring"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Rengöring Avslutad"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Stäng andra flikar innan du rengör"
+   },
+   "Customize": {
+      "message": "Anpassa"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback och förslag"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB Data"
+   },
+   "IndexedDB_info": {
+      "message": "Rensar webbplats IndexedDB data"
+   },
+   "Recommendation": {
+      "message": "Rekommendation"
+   },
+   "SelectAll": {
+      "message": "Välj alla"
+   },
+   "SelectNone": {
+      "message": "Välj ingen"
+   },
+   "Tabblad": {
+      "message": "fliken"
+   },
+   "aboutCleanMaster": {
+      "message": "Om Clean Master"
+   },
+   "aboutUs": {
+      "message": "Om oss"
+   },
+   "appcache": {
+      "message": "Application Cache"
+   },
+   "appcache_info": {
+      "message": "Rensar webbplatsens appcache-data"
+   },
+   "appdsc": {
+      "message": "Ett klick rengör webbläsarens cache och skräp, skyddar din integritet och gör din webbläsare snabbare och produktiv"
+   },
+   "apptitle": {
+      "message": "Clean Master: Den bästa Chrome Cache Cleaner"
+   },
+   "asyc_error": {
+      "message": "Några av de automatiskt rengjorda uppgifterna kommer att återställas av automatisk synkroniseringsfunktion för Google-kontot."
+   },
+   "auto_sycn": {
+      "message": "Om Google Auto Sync är påslagen synkroniseras dataen av Google efter automatisk rengöring."
+   },
+   "cache": {
+      "message": "Cachade bilder och filer"
+   },
+   "cache_info": {
+      "message": "Rensar webbläsarens cache"
+   },
+   "cancel": {
+      "message": "Annullera"
+   },
+   "clean": {
+      "message": "Barnvänligt"
+   },
+   "cleani": {
+      "message": "Rena"
+   },
+   "cleaningup": {
+      "message": "Städar upp"
+   },
+   "click_auto_clean": {
+      "message": "Klicka på ikonen för att automatiskt rensa upp"
+   },
+   "click_icon_clean": {
+      "message": "Utför rengöring när du klickar på ikonen"
+   },
+   "close_browser_clean": {
+      "message": "Stäng webbläsaren automatiskt städa upp"
+   },
+   "confirm": {
+      "message": "Bekräfta"
+   },
+   "contact": {
+      "message": "Kontakt"
+   },
+   "cookies": {
+      "message": "småkakor"
+   },
+   "cookies_info": {
+      "message": "Rensar webbläsarkakorna modifierade inom en viss tidsram"
+   },
+   "cookies_prompt": {
+      "message": "Om du markerar den här rutan raderas cookies som sparats i webbläsaren. Vänligen bekräfta om den är markerad."
+   },
+   "datatoremove": {
+      "message": "Data att ta bort"
+   },
+   "donate": {
+      "message": "Skänk en gåva"
+   },
+   "downloads": {
+      "message": "Hämta historik"
+   },
+   "downloads_info": {
+      "message": "Rensar webbläsarlistan över nedladdade filer (inte de nedladdade filerna själva)"
+   },
+   "everything": {
+      "message": "Allt"
+   },
+   "fileSystems": {
+      "message": "Webbsida filsystem"
+   },
+   "fileSystems_info": {
+      "message": "Rensar webbplatsens filsystemdata"
+   },
+   "formData": {
+      "message": "Autofyll formulärdata"
+   },
+   "formData_info": {
+      "message": "Rensar webbläsarens lagrade formulärdata"
+   },
+   "formData_prompt": {
+      "message": "Om du markerar den här rutan raderas formulärdata som sparats av webbläsaren. Vänligen bekräfta om den är markerad."
+   },
+   "go_to_settings": {
+      "message": "Gå till Inställningar"
+   },
+   "history": {
+      "message": "Sökhistorik"
+   },
+   "history_info": {
+      "message": "Rensar webbläsarens historia"
+   },
+   "lastday": {
+      "message": "Sista dagen"
+   },
+   "lasthour": {
+      "message": "Sista timmen"
+   },
+   "lastmonth": {
+      "message": "Förra månaden"
+   },
+   "lastweek": {
+      "message": "Förra veckan"
+   },
+   "localStorage": {
+      "message": "Lokala lagringsdata"
+   },
+   "localStorage_info": {
+      "message": "Rensar webbplatsens lokala lagringsdata"
+   },
+   "open_browser_clean": {
+      "message": "Öppna webbläsaren för att automatiskt rensa upp"
+   },
+   "option": {
+      "message": "Alternativ"
+   },
+   "passwords": {
+      "message": "Sparade lösenord"
+   },
+   "passwords_info": {
+      "message": "Rensar webbläsarens lagrade lösenord"
+   },
+   "passwords_prompt": {
+      "message": "Markera kryssrutan kommer att rensa kontot och lösenordet för att spara inloggningen i webbläsaren. Vänligen bekräfta om den är markerad."
+   },
+   "pluginData": {
+      "message": "Plugin data"
+   },
+   "pluginData_info": {
+      "message": "Rensar webbläsarens plugin lagringsdata"
+   },
+   "praise": {
+      "message": "Femstjärnigt beröm"
+   },
+   "privacyPolicy": {
+      "message": "Integritetspolicy"
+   },
+   "prompt": {
+      "message": "Prompt"
+   },
+   "rating_button_tate": {
+      "message": "Sätt betyg"
+   },
+   "say": {
+      "message": "jag har något att säga"
+   },
+   "share": {
+      "message": "Dela"
+   },
+   "shareFriends": {
+      "message": "Dela oss med dina vänner!"
+   },
+   "supportUs": {
+      "message": "Ditt stöd är en stor uppmuntran till oss"
+   },
+   "termsOfUse": {
+      "message": "Villkor"
+   },
+   "timePeriod": {
+      "message": "Tidsperiod"
+   },
+   "trackerTitle": {
+      "message": "potentiell spårare"
+   },
+   "unselect_all": {
+      "message": "avmarkera alla"
+   },
+   "usproductokey": {
+      "message": "Våra produkter är okej med det?"
+   },
+   "webSQL": {
+      "message": "Web SQL-data"
+   },
+   "webSQL_info": {
+      "message": "Rensar webbplatsens WebSQL-data"
+   }
+}

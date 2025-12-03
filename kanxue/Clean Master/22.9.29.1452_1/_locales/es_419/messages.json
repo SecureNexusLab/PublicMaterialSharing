@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Opciones avanzadas"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Permitir borrar pestañas fijas"
+   },
+   "Automatic_clean": {
+      "message": "Limpieza automática"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Limpieza completa"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Cierre otras pestañas antes de limpiar"
+   },
+   "Customize": {
+      "message": "Personalizar"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Comentarios y sugerencias"
+   },
+   "IndexedDB": {
+      "message": "Datos IndexedDB"
+   },
+   "IndexedDB_info": {
+      "message": "Borra los datos del sitio web IndexedDB"
+   },
+   "Recommendation": {
+      "message": "Recomendación"
+   },
+   "SelectAll": {
+      "message": "Seleccionar todo"
+   },
+   "SelectNone": {
+      "message": "Seleccione Ninguno"
+   },
+   "Tabblad": {
+      "message": "Tab"
+   },
+   "aboutCleanMaster": {
+      "message": "Acerca de Clean Master"
+   },
+   "aboutUs": {
+      "message": "Sobre nosotros"
+   },
+   "appcache": {
+      "message": "Caché de aplicaciones"
+   },
+   "appcache_info": {
+      "message": "Borra los datos de aplicación del sitio web"
+   },
+   "appdsc": {
+      "message": "Un clic limpia la memoria caché y la papelera del navegador, protege su privacidad y hace que su navegador sea más rápido y productivo"
+   },
+   "apptitle": {
+      "message": "Clean Master: el mejor limpiador de caché de Chrome"
+   },
+   "asyc_error": {
+      "message": "Algunos de los datos de limpieza automática serán restaurados por el mecanismo de sincronización automática de la cuenta de Google."
+   },
+   "auto_sycn": {
+      "message": "Si Google Auto Sync está activada, Google volverá a sincronizar los datos después de la limpieza automática."
+   },
+   "cache": {
+      "message": "Imágenes en caché y archivos"
+   },
+   "cache_info": {
+      "message": "Borra la memoria caché del navegador"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "clean": {
+      "message": "Limpio"
+   },
+   "cleani": {
+      "message": "Limpiar"
+   },
+   "cleaningup": {
+      "message": "Limpiar"
+   },
+   "click_auto_clean": {
+      "message": "Haga clic en el ícono para limpiar automáticamente"
+   },
+   "click_icon_clean": {
+      "message": "Realice la limpieza al hacer clic en el icono"
+   },
+   "close_browser_clean": {
+      "message": "Cierre el navegador automáticamente para limpiar"
+   },
+   "confirm": {
+      "message": "Confirmar"
+   },
+   "contact": {
+      "message": "Contacto"
+   },
+   "cookies": {
+      "message": "galletas"
+   },
+   "cookies_info": {
+      "message": "Borra las cookies del navegador modificadas dentro de un marco de tiempo particular"
+   },
+   "cookies_prompt": {
+      "message": "Al marcar esta casilla se borrarán las cookies guardadas en el navegador. Por favor confirme si está marcado."
+   },
+   "datatoremove": {
+      "message": "Datos para eliminar"
+   },
+   "donate": {
+      "message": "Donar"
+   },
+   "downloads": {
+      "message": "Historial de descarga"
+   },
+   "downloads_info": {
+      "message": "Borra la lista de navegadores de los archivos descargados (no los archivos descargados)"
+   },
+   "everything": {
+      "message": "Todo"
+   },
+   "fileSystems": {
+      "message": "Sitio web File Systems"
+   },
+   "fileSystems_info": {
+      "message": "Borra los datos del sistema de archivos del sitio web"
+   },
+   "formData": {
+      "message": "Datos de formulario de autocompletar"
+   },
+   "formData_info": {
+      "message": "Borra el navegador de los datos almacenados"
+   },
+   "formData_prompt": {
+      "message": "Al marcar esta casilla se borrarán los datos del formulario guardados por el navegador. Por favor confirme si está marcado."
+   },
+   "go_to_settings": {
+      "message": "Ir a la configuración"
+   },
+   "history": {
+      "message": "Historial de navegación"
+   },
+   "history_info": {
+      "message": "Borra el historial del navegador"
+   },
+   "lastday": {
+      "message": "Último día"
+   },
+   "lasthour": {
+      "message": "Ultima hora"
+   },
+   "lastmonth": {
+      "message": "El mes pasado"
+   },
+   "lastweek": {
+      "message": "La semana pasada"
+   },
+   "localStorage": {
+      "message": "Datos de almacenamiento local"
+   },
+   "localStorage_info": {
+      "message": "Borra los datos de almacenamiento local del sitio web"
+   },
+   "open_browser_clean": {
+      "message": "Abra el navegador para limpiar automáticamente"
+   },
+   "option": {
+      "message": "Opción"
+   },
+   "passwords": {
+      "message": "Contraseñas guardadas"
+   },
+   "passwords_info": {
+      "message": "Borra las contraseñas almacenadas en el navegador"
+   },
+   "passwords_prompt": {
+      "message": "Marque esta casilla para borrar la cuenta y la contraseña para guardar el inicio de sesión en el navegador. Por favor confirme si está marcado."
+   },
+   "pluginData": {
+      "message": "Datos del complemento"
+   },
+   "pluginData_info": {
+      "message": "Borra los datos de almacenamiento del complemento del navegador"
+   },
+   "praise": {
+      "message": "Alabanza de cinco estrellas"
+   },
+   "privacyPolicy": {
+      "message": "Política de privacidad"
+   },
+   "prompt": {
+      "message": "Rápido"
+   },
+   "rating_button_tate": {
+      "message": "Calificar"
+   },
+   "say": {
+      "message": "Tengo algo que decir"
+   },
+   "share": {
+      "message": "Compartir"
+   },
+   "shareFriends": {
+      "message": "¡Compártenos con tus amigos!"
+   },
+   "supportUs": {
+      "message": "Su apoyo es un gran estímulo para nosotros"
+   },
+   "termsOfUse": {
+      "message": "Términos de Uso"
+   },
+   "timePeriod": {
+      "message": "Periodo de tiempo"
+   },
+   "trackerTitle": {
+      "message": "rastreador potencial"
+   },
+   "unselect_all": {
+      "message": "deselecciona todo"
+   },
+   "usproductokey": {
+      "message": "Nuestros productos están bien con eso?"
+   },
+   "webSQL": {
+      "message": "Datos web SQL"
+   },
+   "webSQL_info": {
+      "message": "Borra los datos WebSQL del sitio web"
+   }
+}

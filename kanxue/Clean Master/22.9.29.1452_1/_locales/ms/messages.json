@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Pilihan Lanjutan"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Benarkan pembukaan tab tetap"
+   },
+   "Automatic_clean": {
+      "message": "Bersih automatik"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Bersihkan selesai"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Tutup tab lain sebelum pembersihan"
+   },
+   "Customize": {
+      "message": "Peribadikan"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Maklumbalas dan Cadangan"
+   },
+   "IndexedDB": {
+      "message": "Data IndexedDB"
+   },
+   "IndexedDB_info": {
+      "message": "Membersihkan data Indeks dataDDDB"
+   },
+   "Recommendation": {
+      "message": "Cadangan"
+   },
+   "SelectAll": {
+      "message": "Pilih semua"
+   },
+   "SelectNone": {
+      "message": "Pilih Tiada"
+   },
+   "Tabblad": {
+      "message": "Tab"
+   },
+   "aboutCleanMaster": {
+      "message": "Mengenai Master Clean"
+   },
+   "aboutUs": {
+      "message": "Tentang kita"
+   },
+   "appcache": {
+      "message": "Cache Aplikasi"
+   },
+   "appcache_info": {
+      "message": "Membersihkan data data appcache laman web"
+   },
+   "appdsc": {
+      "message": "Satu klik membersihkan cache dan sampah browser Anda, melindungi privasi Anda, dan membuat peramban Anda lebih cepat dan produktif"
+   },
+   "apptitle": {
+      "message": "Clean Master: Pembersih Cache Chrome Terbaik"
+   },
+   "asyc_error": {
+      "message": "Beberapa data yang dibersihkan secara automatik akan dipulihkan oleh mekanisme penyegerakan auto akaun Google."
+   },
+   "auto_sycn": {
+      "message": "Jika Google Auto Sync dihidupkan, data akan diselaraskan oleh Google selepas pembersihan automatik."
+   },
+   "cache": {
+      "message": "Imej dan Fail Cache"
+   },
+   "cache_info": {
+      "message": "Bersihkan cache penyemak imbas"
+   },
+   "cancel": {
+      "message": "Batalkan"
+   },
+   "clean": {
+      "message": "Bersihkan"
+   },
+   "cleani": {
+      "message": "Bersih"
+   },
+   "cleaningup": {
+      "message": "Membersihkan"
+   },
+   "click_auto_clean": {
+      "message": "Klik ikon untuk membersihkan secara automatik"
+   },
+   "click_icon_clean": {
+      "message": "Lakukan pembersihan apabila mengklik ikon"
+   },
+   "close_browser_clean": {
+      "message": "Tutup penyemak imbas secara automatik bersihkan"
+   },
+   "confirm": {
+      "message": "Sahkan"
+   },
+   "contact": {
+      "message": "Kenalan"
+   },
+   "cookies": {
+      "message": "cookies"
+   },
+   "cookies_info": {
+      "message": "Membersihkan kuki penyemak imbas yang diubah suai dalam tempoh masa tertentu"
+   },
+   "cookies_prompt": {
+      "message": "Memeriksa kotak ini akan mengosongkan kuki yang disimpan dalam penyemak imbas. Sila sahkan sama ada ia diperiksa."
+   },
+   "datatoremove": {
+      "message": "Data untuk Alih Keluar"
+   },
+   "donate": {
+      "message": "Derma"
+   },
+   "downloads": {
+      "message": "Muat turun Sejarah"
+   },
+   "downloads_info": {
+      "message": "Hapuskan senarai penyemak imbas fail yang dimuat turun (bukan fail yang dimuatkan sendiri)"
+   },
+   "everything": {
+      "message": "Semuanya"
+   },
+   "fileSystems": {
+      "message": "Sistem Fail Laman Web"
+   },
+   "fileSystems_info": {
+      "message": "Membersihkan data sistem fail laman web"
+   },
+   "formData": {
+      "message": "Borang borang Isi Isi kandungan"
+   },
+   "formData_info": {
+      "message": "Membersihkan data borang penyemak imbas yang disimpan"
+   },
+   "formData_prompt": {
+      "message": "Memeriksa kotak ini akan membersihkan data borang yang disimpan oleh penyemak imbas. Sila sahkan sama ada ia diperiksa."
+   },
+   "go_to_settings": {
+      "message": "Pergi ke tetapan"
+   },
+   "history": {
+      "message": "Sejarah Penyemakan"
+   },
+   "history_info": {
+      "message": "Bersihkan sejarah penyemak imbas"
+   },
+   "lastday": {
+      "message": "Hari terakhir"
+   },
+   "lasthour": {
+      "message": "Jam terakhir"
+   },
+   "lastmonth": {
+      "message": "Bulan lepas"
+   },
+   "lastweek": {
+      "message": "Minggu lepas"
+   },
+   "localStorage": {
+      "message": "Data Storan Tempatan"
+   },
+   "localStorage_info": {
+      "message": "Membersihkan data storan tempatan laman web"
+   },
+   "open_browser_clean": {
+      "message": "Buka penyemak imbas untuk membersihkan secara automatik"
+   },
+   "option": {
+      "message": "Pilihan"
+   },
+   "passwords": {
+      "message": "Kata Laluan yang Disimpan"
+   },
+   "passwords_info": {
+      "message": "Membersihkan kata laluan yang disimpan penyemak imbas"
+   },
+   "passwords_prompt": {
+      "message": "Semak kotak ini akan memadamkan akaun dan kata laluan untuk menyimpan log masuk dalam penyemak imbas. Sila sahkan sama ada ia diperiksa."
+   },
+   "pluginData": {
+      "message": "Data Plugin"
+   },
+   "pluginData_info": {
+      "message": "Membersihkan data storan plugin penyemak imbas"
+   },
+   "praise": {
+      "message": "Pujian lima bintang"
+   },
+   "privacyPolicy": {
+      "message": "Dasar Privasi"
+   },
+   "prompt": {
+      "message": "Prompt"
+   },
+   "rating_button_tate": {
+      "message": "Nilai"
+   },
+   "say": {
+      "message": "Saya mempunyai sesuatu untuk dikatakan"
+   },
+   "share": {
+      "message": "Kongsi"
+   },
+   "shareFriends": {
+      "message": "Berkongsi kami dengan rakan-rakan anda!"
+   },
+   "supportUs": {
+      "message": "Sokongan anda adalah galakan yang hebat kepada kami"
+   },
+   "termsOfUse": {
+      "message": "Syarat Penggunaan"
+   },
+   "timePeriod": {
+      "message": "Jangka masa"
+   },
+   "trackerTitle": {
+      "message": "penjejak yang berpotensi"
+   },
+   "unselect_all": {
+      "message": "nyahpilih semua"
+   },
+   "usproductokey": {
+      "message": "Produk kami baik-baik saja dengannya?"
+   },
+   "webSQL": {
+      "message": "Data SQL Web"
+   },
+   "webSQL_info": {
+      "message": "Membersihkan data WebSQL laman web"
+   }
+}

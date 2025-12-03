@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "고급 옵션"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "고정 탭 삭제 허용"
+   },
+   "Automatic_clean": {
+      "message": "자동 청소"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "정리 완료"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "청소하기 전에 다른 탭을 닫으십시오."
+   },
+   "Customize": {
+      "message": "사용자 정의"
+   },
+   "FeedbackandSuggestion": {
+      "message": "의견 및 제안"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB 데이터"
+   },
+   "IndexedDB_info": {
+      "message": "웹 사이트 IndexedDB 데이터를 지 웁니다."
+   },
+   "Recommendation": {
+      "message": "추천"
+   },
+   "SelectAll": {
+      "message": "모두 선택"
+   },
+   "SelectNone": {
+      "message": "선택 없음"
+   },
+   "Tabblad": {
+      "message": "탭"
+   },
+   "aboutCleanMaster": {
+      "message": "Clean Master 정보"
+   },
+   "aboutUs": {
+      "message": "회사 소개"
+   },
+   "appcache": {
+      "message": "응용 프로그램 캐시"
+   },
+   "appcache_info": {
+      "message": "웹 사이트 appcache 데이터를 지 웁니다."
+   },
+   "appdsc": {
+      "message": "원 클릭으로 브라우저 캐시 및 휴지통을 정리하고 개인 정보를 보호하며 브라우저를보다 빠르고 생산적으로 만듭니다."
+   },
+   "apptitle": {
+      "message": "Clean Master: 최고의 Chrome 캐시 클리너"
+   },
+   "asyc_error": {
+      "message": "자동으로 정리 된 일부 데이터는 Google 계정 자동 동기화 메커니즘에 의해 복원됩니다."
+   },
+   "auto_sycn": {
+      "message": "Google 자동 동기화를 사용하도록 설정하면 자동 정리 후에 데이터가 Google에 다시 동기화됩니다."
+   },
+   "cache": {
+      "message": "캐시 된 이미지 및 파일"
+   },
+   "cache_info": {
+      "message": "브라우저 캐시를 지 웁니다."
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "clean": {
+      "message": "전체 연령 사용가"
+   },
+   "cleani": {
+      "message": "깨끗한"
+   },
+   "cleaningup": {
+      "message": "청소"
+   },
+   "click_auto_clean": {
+      "message": "자동으로 정리하려면 아이콘을 클릭하십시오."
+   },
+   "click_icon_clean": {
+      "message": "아이콘을 클릭하면 정리가 수행됩니다."
+   },
+   "close_browser_clean": {
+      "message": "자동으로 브라우저를 닫습니다."
+   },
+   "confirm": {
+      "message": "확인"
+   },
+   "contact": {
+      "message": "연락처"
+   },
+   "cookies": {
+      "message": "쿠키"
+   },
+   "cookies_info": {
+      "message": "특정 기간 내에 수정 된 브라우저 쿠키를 지 웁니다."
+   },
+   "cookies_prompt": {
+      "message": "이 확인란을 선택하면 브라우저에 저장된 쿠키가 지워집니다. 확인 여부를 확인하십시오."
+   },
+   "datatoremove": {
+      "message": "제거 할 데이터"
+   },
+   "donate": {
+      "message": "기부"
+   },
+   "downloads": {
+      "message": "다운로드 기록"
+   },
+   "downloads_info": {
+      "message": "다운로드 한 파일의 브라우저 목록을 지 웁니다 (다운로드 한 파일 자체는 제외)."
+   },
+   "everything": {
+      "message": "모두"
+   },
+   "fileSystems": {
+      "message": "웹 사이트 파일 시스템"
+   },
+   "fileSystems_info": {
+      "message": "웹 사이트 파일 시스템 데이터를 지 웁니다."
+   },
+   "formData": {
+      "message": "자동 완성 양식 데이터"
+   },
+   "formData_info": {
+      "message": "브라우저에 저장된 양식 데이터를 지 웁니다."
+   },
+   "formData_prompt": {
+      "message": "이 확인란을 선택하면 브라우저가 저장 한 양식 데이터가 지워집니다. 확인 여부를 확인하십시오."
+   },
+   "go_to_settings": {
+      "message": "설정으로 바로 가기"
+   },
+   "history": {
+      "message": "검색 기록"
+   },
+   "history_info": {
+      "message": "브라우저 기록을 지 웁니다."
+   },
+   "lastday": {
+      "message": "마지막 날"
+   },
+   "lasthour": {
+      "message": "지난 시간"
+   },
+   "lastmonth": {
+      "message": "지난 달"
+   },
+   "lastweek": {
+      "message": "지난주"
+   },
+   "localStorage": {
+      "message": "로컬 저장소 데이터"
+   },
+   "localStorage_info": {
+      "message": "웹 사이트 로컬 저장 데이터를 지 웁니다."
+   },
+   "open_browser_clean": {
+      "message": "브라우저를 열어 자동으로 정리"
+   },
+   "option": {
+      "message": "선택권"
+   },
+   "passwords": {
+      "message": "저장된 암호"
+   },
+   "passwords_info": {
+      "message": "브라우저에 저장된 비밀번호를 지 웁니다."
+   },
+   "passwords_prompt": {
+      "message": "이 확인란을 선택하면 브라우저에 로그인을 저장하기위한 계정과 암호가 지워집니다. 확인 여부를 확인하십시오."
+   },
+   "pluginData": {
+      "message": "플러그인 데이터"
+   },
+   "pluginData_info": {
+      "message": "브라우저 플러그인 저장 데이터를 지 웁니다."
+   },
+   "praise": {
+      "message": "별 다섯 개짜리 칭찬"
+   },
+   "privacyPolicy": {
+      "message": "개인정보 취급방침"
+   },
+   "prompt": {
+      "message": "신속한"
+   },
+   "rating_button_tate": {
+      "message": "평가하기"
+   },
+   "say": {
+      "message": "나는 할말이있다."
+   },
+   "share": {
+      "message": "공유"
+   },
+   "shareFriends": {
+      "message": "친구와 우리를 공유하십시오!"
+   },
+   "supportUs": {
+      "message": "귀하의 지원은 우리에게 큰 격려입니다."
+   },
+   "termsOfUse": {
+      "message": "이용 약관"
+   },
+   "timePeriod": {
+      "message": "기간"
+   },
+   "trackerTitle": {
+      "message": "잠재적인 추적기"
+   },
+   "unselect_all": {
+      "message": "모두 선택 해제"
+   },
+   "usproductokey": {
+      "message": "우리 제품은 괜찮습니까?"
+   },
+   "webSQL": {
+      "message": "웹 SQL 데이터"
+   },
+   "webSQL_info": {
+      "message": "웹 사이트 WebSQL 데이터를 지 웁니다."
+   }
+}

@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Advanced Options"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Allow clearing of fixed tabs"
+   },
+   "Automatic_clean": {
+      "message": "Automatic clean"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Clean up Completed"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Close other tabs before cleaning"
+   },
+   "Customize": {
+      "message": "Customize"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback and Suggestion"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB Data"
+   },
+   "IndexedDB_info": {
+      "message": "Clears website IndexedDB data"
+   },
+   "Recommendation": {
+      "message": "Recommendation"
+   },
+   "SelectAll": {
+      "message": "Select All"
+   },
+   "SelectNone": {
+      "message": "Select None"
+   },
+   "Tabblad": {
+      "message": "Tabblad"
+   },
+   "aboutCleanMaster": {
+      "message": "About Clean Master"
+   },
+   "aboutUs": {
+      "message": "About Us"
+   },
+   "appcache": {
+      "message": "Application Cache"
+   },
+   "appcache_info": {
+      "message": "Clears website appcache data"
+   },
+   "appdsc": {
+      "message": "One-click cleans your browser cache and trash, protects your privacy, and makes your browser faster and productive"
+   },
+   "apptitle": {
+      "message": "Clean Master: the best Chrome Cache Cleaner"
+   },
+   "asyc_error": {
+      "message": "Some of the automatically cleaned up data will be restored by the Google account auto-sync mechanism."
+   },
+   "auto_sycn": {
+      "message": "If Google Auto Sync is turned on, the data will be synced back by Google after the automatic cleanup."
+   },
+   "cache": {
+      "message": "Cached Images and Files"
+   },
+   "cache_info": {
+      "message": "Clears the browser cache"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "clean": {
+      "message": "Clean"
+   },
+   "cleani": {
+      "message": "Clean"
+   },
+   "cleaningup": {
+      "message": "Cleaning Up"
+   },
+   "click_auto_clean": {
+      "message": "Click the icon to automatically clean up"
+   },
+   "click_icon_clean": {
+      "message": "Perform cleanup when clicking the icon"
+   },
+   "close_browser_clean": {
+      "message": "Close the browser automatically clean up"
+   },
+   "confirm": {
+      "message": "Confirm"
+   },
+   "contact": {
+      "message": "Contact"
+   },
+   "cookies": {
+      "message": "Cookies"
+   },
+   "cookies_info": {
+      "message": "Clears the browser cookies modified within a particular timeframe"
+   },
+   "cookies_prompt": {
+      "message": "Checking this box will clear the cookies saved in the browser. Please confirm whether it is checked."
+   },
+   "datatoremove": {
+      "message": "Data to Remove"
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "downloads": {
+      "message": "Download History"
+   },
+   "downloads_info": {
+      "message": "Clears the browser list of downloaded files (not the downloaded files themselves)"
+   },
+   "everything": {
+      "message": "Everything"
+   },
+   "fileSystems": {
+      "message": "Website File Systems"
+   },
+   "fileSystems_info": {
+      "message": "Clears website file system data"
+   },
+   "formData": {
+      "message": "Autofill form Data"
+   },
+   "formData_info": {
+      "message": "Clears the browser stored form data"
+   },
+   "formData_prompt": {
+      "message": "Checking this box will clear the form data saved by the browser. Please confirm whether it is checked."
+   },
+   "go_to_settings": {
+      "message": "Go to settings"
+   },
+   "history": {
+      "message": "Browsing History"
+   },
+   "history_info": {
+      "message": "Clears the browser history"
+   },
+   "lastday": {
+      "message": "Last Day"
+   },
+   "lasthour": {
+      "message": "Last Hour"
+   },
+   "lastmonth": {
+      "message": "Last Month"
+   },
+   "lastweek": {
+      "message": "Last Week"
+   },
+   "localStorage": {
+      "message": "Local Storage Data"
+   },
+   "localStorage_info": {
+      "message": "Clears website local storage data"
+   },
+   "open_browser_clean": {
+      "message": "Open browser to automatically clean up"
+   },
+   "option": {
+      "message": "Option"
+   },
+   "passwords": {
+      "message": "Saved Passwords"
+   },
+   "passwords_info": {
+      "message": "Clears the browser stored passwords"
+   },
+   "passwords_prompt": {
+      "message": "Check this box will clear the account and password for saving the login in the browser. Please confirm whether it is checked."
+   },
+   "pluginData": {
+      "message": "Plugin Data"
+   },
+   "pluginData_info": {
+      "message": "Clears browser plugin storage data"
+   },
+   "praise": {
+      "message": "Five-star praise"
+   },
+   "privacyPolicy": {
+      "message": "Privacy Policy"
+   },
+   "prompt": {
+      "message": "Prompt"
+   },
+   "rating_button_tate": {
+      "message": "Rate"
+   },
+   "say": {
+      "message": "I have something to say"
+   },
+   "share": {
+      "message": "Share"
+   },
+   "shareFriends": {
+      "message": "Share us with your friends!"
+   },
+   "supportUs": {
+      "message": "Your support is a great encouragement to us"
+   },
+   "termsOfUse": {
+      "message": "Terms of Use"
+   },
+   "timePeriod": {
+      "message": "Time Period"
+   },
+   "trackerTitle": {
+      "message": "potential tracker"
+   },
+   "unselect_all": {
+      "message": "unselect all"
+   },
+   "usproductokey": {
+      "message": "Our products are okay with it?"
+   },
+   "webSQL": {
+      "message": "Web SQL Data"
+   },
+   "webSQL_info": {
+      "message": "Clears website WebSQL data"
+   }
+}

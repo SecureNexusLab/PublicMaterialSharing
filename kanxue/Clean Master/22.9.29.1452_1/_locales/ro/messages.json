@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Opțiuni avansate"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Permiteți ștergerea filelor fixe"
+   },
+   "Automatic_clean": {
+      "message": "Curată automat"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Curatare Finalizat"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Închideți alte file înainte de curățare"
+   },
+   "Customize": {
+      "message": "Personalizați"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback și sugestie"
+   },
+   "IndexedDB": {
+      "message": "Datele indexateDB"
+   },
+   "IndexedDB_info": {
+      "message": "Șterge datele de pe site indexedDB"
+   },
+   "Recommendation": {
+      "message": "Recomandare"
+   },
+   "SelectAll": {
+      "message": "Selectează tot"
+   },
+   "SelectNone": {
+      "message": "Selectați Niciuna"
+   },
+   "Tabblad": {
+      "message": "fila"
+   },
+   "aboutCleanMaster": {
+      "message": "Despre Clean Master"
+   },
+   "aboutUs": {
+      "message": "Despre noi"
+   },
+   "appcache": {
+      "message": "Cache de aplicații"
+   },
+   "appcache_info": {
+      "message": "Șterge datele de pe site-ul Apcache"
+   },
+   "appdsc": {
+      "message": "Cu un singur clic se curăță memoria cache și coșul de gunoi al browserului dvs., se protejează confidențialitatea dvs. și se face browserul mai rapid și mai productiv"
+   },
+   "apptitle": {
+      "message": "Clean Master: Cel mai bun Cleaner pentru cache Chrome"
+   },
+   "asyc_error": {
+      "message": "Unele dintre datele curățate automat vor fi restabilite de mecanismul de sincronizare automată a contului Google."
+   },
+   "auto_sycn": {
+      "message": "Dacă Google Auto Sync este activată, datele vor fi sincronizate de Google după curățarea automată."
+   },
+   "cache": {
+      "message": "Imagini și fișiere stocate în cache"
+   },
+   "cache_info": {
+      "message": "Șterge memoria cache a browserului"
+   },
+   "cancel": {
+      "message": "Anulare"
+   },
+   "clean": {
+      "message": "Adecvat"
+   },
+   "cleani": {
+      "message": "Curat"
+   },
+   "cleaningup": {
+      "message": "A curăța"
+   },
+   "click_auto_clean": {
+      "message": "Faceți clic pe pictograma pentru a curăța automat"
+   },
+   "click_icon_clean": {
+      "message": "Efectuați curățarea când faceți clic pe pictogramă"
+   },
+   "close_browser_clean": {
+      "message": "Închideți browserul curățați automat"
+   },
+   "confirm": {
+      "message": "A confirma"
+   },
+   "contact": {
+      "message": "Contact"
+   },
+   "cookies": {
+      "message": "fursecuri"
+   },
+   "cookies_info": {
+      "message": "Șterge cookie-urile de browser modificate într-un anumit interval de timp"
+   },
+   "cookies_prompt": {
+      "message": "Dacă bifați această casetă, veți șterge cookie-urile salvate în browser. Verificați dacă este bifată."
+   },
+   "datatoremove": {
+      "message": "Datele de eliminat"
+   },
+   "donate": {
+      "message": "Donați"
+   },
+   "downloads": {
+      "message": "Descărcați istoric"
+   },
+   "downloads_info": {
+      "message": "Șterge lista de browsere a fișierelor descărcate (nu și fișierele descărcate)"
+   },
+   "everything": {
+      "message": "Tot"
+   },
+   "fileSystems": {
+      "message": "Sisteme de fișiere pentru site"
+   },
+   "fileSystems_info": {
+      "message": "Șterge datele din sistemul de fișiere de pe site"
+   },
+   "formData": {
+      "message": "Completați formularul Completare automată"
+   },
+   "formData_info": {
+      "message": "Șterge datele stocate în formularul browserului"
+   },
+   "formData_prompt": {
+      "message": "Dacă bifați această casetă, veți șterge datele din formular salvate de browser. Verificați dacă este bifată."
+   },
+   "go_to_settings": {
+      "message": "Mergi la Setari"
+   },
+   "history": {
+      "message": "Istoricul de navigare"
+   },
+   "history_info": {
+      "message": "Șterge istoricul browserului"
+   },
+   "lastday": {
+      "message": "Ultima zi"
+   },
+   "lasthour": {
+      "message": "Ultima ora"
+   },
+   "lastmonth": {
+      "message": "Luna trecuta"
+   },
+   "lastweek": {
+      "message": "Săptămâna trecută"
+   },
+   "localStorage": {
+      "message": "Datele locale de stocare"
+   },
+   "localStorage_info": {
+      "message": "Șterge datele de stocare locale ale site-urilor web"
+   },
+   "open_browser_clean": {
+      "message": "Deschideți browserul pentru a curăța automat"
+   },
+   "option": {
+      "message": "Opțiune"
+   },
+   "passwords": {
+      "message": "Parole salvate"
+   },
+   "passwords_info": {
+      "message": "Șterge parolele stocate de browser"
+   },
+   "passwords_prompt": {
+      "message": "Bifați această casetă va șterge contul și parola pentru a salva datele de conectare în browser. Verificați dacă este bifată."
+   },
+   "pluginData": {
+      "message": "Date despre pluginuri"
+   },
+   "pluginData_info": {
+      "message": "Șterge datele de stocare a pluginului browserului"
+   },
+   "praise": {
+      "message": "Cinci stele de laudă"
+   },
+   "privacyPolicy": {
+      "message": "Confidențialitate"
+   },
+   "prompt": {
+      "message": "Prompt"
+   },
+   "rating_button_tate": {
+      "message": "Evaluați"
+   },
+   "say": {
+      "message": "am ceva de spus"
+   },
+   "share": {
+      "message": "Trimite"
+   },
+   "shareFriends": {
+      "message": "Trimiteți-ne prietenilor dvs.!"
+   },
+   "supportUs": {
+      "message": "Sprijinul dvs. este o mare încurajare pentru noi"
+   },
+   "termsOfUse": {
+      "message": "Termeni de utilizare"
+   },
+   "timePeriod": {
+      "message": "Perioada de timp"
+   },
+   "trackerTitle": {
+      "message": "urmăritor potențial"
+   },
+   "unselect_all": {
+      "message": "Deselectează tot"
+   },
+   "usproductokey": {
+      "message": "Produsele noastre sunt bine cu ea?"
+   },
+   "webSQL": {
+      "message": "Web SQL Data"
+   },
+   "webSQL_info": {
+      "message": "Șterge datele de pe site-ul WebSQL"
+   }
+}

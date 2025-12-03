@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Edistyneet asetukset"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Salli kiinteiden välilehtien tyhjentäminen"
+   },
+   "Automatic_clean": {
+      "message": "Automaattinen puhdistus"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Puhdistus valmis"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Sulje muut välilehdet ennen puhdistusta"
+   },
+   "Customize": {
+      "message": "muokata"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Palaute ja ehdotus"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB Data"
+   },
+   "IndexedDB_info": {
+      "message": "Tyhjentää indeksoituja verkkosivustoja"
+   },
+   "Recommendation": {
+      "message": "Suositus"
+   },
+   "SelectAll": {
+      "message": "Valitse kaikki"
+   },
+   "SelectNone": {
+      "message": "Älä valitse mitään"
+   },
+   "Tabblad": {
+      "message": "kieleke"
+   },
+   "aboutCleanMaster": {
+      "message": "Tietoja Clean Masterista"
+   },
+   "aboutUs": {
+      "message": "Meistä"
+   },
+   "appcache": {
+      "message": "Sovellusvälimuisti"
+   },
+   "appcache_info": {
+      "message": "Tyhjentää verkkosivustojen appcache-tiedot"
+   },
+   "appdsc": {
+      "message": "Yksi napsautus puhdistaa selaimen välimuistin ja roskat, suojaa yksityisyyttäsi ja tekee selaimestasi nopeamman ja tuottavamman"
+   },
+   "apptitle": {
+      "message": "Clean Master: Paras Chrome-välimuistin puhdistaja"
+   },
+   "asyc_error": {
+      "message": "Jotkin automaattisesti puhdistetuista tiedoista palautetaan Google-tilin automaattisella synkronointimekanismilla."
+   },
+   "auto_sycn": {
+      "message": "Jos Google Auto Sync on käytössä, Google synkronoi tiedot automaattisesti automaattisen puhdistuksen jälkeen."
+   },
+   "cache": {
+      "message": "Välimuistit kuvat ja tiedostot"
+   },
+   "cache_info": {
+      "message": "Tyhjentää selaimen välimuisti"
+   },
+   "cancel": {
+      "message": "Peruuttaa"
+   },
+   "clean": {
+      "message": "Sallittu"
+   },
+   "cleani": {
+      "message": "Puhdas"
+   },
+   "cleaningup": {
+      "message": "Puhdistaa"
+   },
+   "click_auto_clean": {
+      "message": "Napsauta kuvaketta, jotta se puhdistetaan automaattisesti"
+   },
+   "click_icon_clean": {
+      "message": "Suorita puhdistus, kun napsautat kuvaketta"
+   },
+   "close_browser_clean": {
+      "message": "Sulje selain automaattisesti puhdistamalla"
+   },
+   "confirm": {
+      "message": "Vahvistaa"
+   },
+   "contact": {
+      "message": "Yhteyshenkilö"
+   },
+   "cookies": {
+      "message": "keksit"
+   },
+   "cookies_info": {
+      "message": "Tyhjentää selaimen evästeet, jotka on muokattu tietyn ajan kuluessa"
+   },
+   "cookies_prompt": {
+      "message": "Tämän valintaruudun tyhjentäminen poistaa selaimessa tallennetut evästeet. Varmista, onko se tarkistettu."
+   },
+   "datatoremove": {
+      "message": "Tiedot poistetaan"
+   },
+   "donate": {
+      "message": "Lahjoita"
+   },
+   "downloads": {
+      "message": "Lataa historia"
+   },
+   "downloads_info": {
+      "message": "Tyhjentää lataamiesi tiedostojen selainlista (ei itse ladattuja tiedostoja)"
+   },
+   "everything": {
+      "message": "Kaikki"
+   },
+   "fileSystems": {
+      "message": "Verkkotunnuksen tiedostojärjestelmät"
+   },
+   "fileSystems_info": {
+      "message": "Tyhjentää verkkosivuston tiedostojärjestelmän tiedot"
+   },
+   "formData": {
+      "message": "Automaattinen täyttölomake"
+   },
+   "formData_info": {
+      "message": "Tyhjentää selaimen tallennetut lomaketiedot"
+   },
+   "formData_prompt": {
+      "message": "Tämän valintaruudun tyhjentäminen poistaa selaimen tallentamat lomaketiedot. Varmista, onko se tarkistettu."
+   },
+   "go_to_settings": {
+      "message": "Mene asetuksiin"
+   },
+   "history": {
+      "message": "Selaushistoria"
+   },
+   "history_info": {
+      "message": "Tyhjentää selainhistorian"
+   },
+   "lastday": {
+      "message": "Viimeinen päivä"
+   },
+   "lasthour": {
+      "message": "Viime tunti"
+   },
+   "lastmonth": {
+      "message": "Viime kuukausi"
+   },
+   "lastweek": {
+      "message": "Viime viikko"
+   },
+   "localStorage": {
+      "message": "Paikalliset tallennustiedot"
+   },
+   "localStorage_info": {
+      "message": "Tyhjentää verkkosivuston paikalliset tallennustiedot"
+   },
+   "open_browser_clean": {
+      "message": "Avaa selain automaattisesti puhdistamaan"
+   },
+   "option": {
+      "message": "Vaihtoehto"
+   },
+   "passwords": {
+      "message": "Tallennetut salasanat"
+   },
+   "passwords_info": {
+      "message": "Tyhjentää selaimen tallennetut salasanat"
+   },
+   "passwords_prompt": {
+      "message": "Valitse tämä valintaruutu, kun haluat tyhjentää käyttäjätilin ja salasanan kirjautumistunnuksen tallentamiseksi selaimessa. Varmista, onko se tarkistettu."
+   },
+   "pluginData": {
+      "message": "Plugin Data"
+   },
+   "pluginData_info": {
+      "message": "Tyhjentää selaimen laajennuksen tallennustiedot"
+   },
+   "praise": {
+      "message": "Viiden tähden kiitosta"
+   },
+   "privacyPolicy": {
+      "message": "Tietosuojakäytäntö"
+   },
+   "prompt": {
+      "message": "nopea"
+   },
+   "rating_button_tate": {
+      "message": "Arvioi"
+   },
+   "say": {
+      "message": "minulla on asiaa"
+   },
+   "share": {
+      "message": "Jaa"
+   },
+   "shareFriends": {
+      "message": "Jaa meidät ystäviesi kanssa!"
+   },
+   "supportUs": {
+      "message": "Sinun kannatuksesi on suuri rohkaisu meille"
+   },
+   "termsOfUse": {
+      "message": "Käyttöehdot"
+   },
+   "timePeriod": {
+      "message": "Ajanjakso"
+   },
+   "trackerTitle": {
+      "message": "potentiaalinen jäljittäjä"
+   },
+   "unselect_all": {
+      "message": "poista kaikki valinta"
+   },
+   "usproductokey": {
+      "message": "Tuotteemme ovat kunnossa sen kanssa?"
+   },
+   "webSQL": {
+      "message": "Web-SQL-tiedot"
+   },
+   "webSQL_info": {
+      "message": "Tyhjentää verkkosivuston WebSQL-tiedot"
+   }
+}

@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Tùy chọn Nâng cao"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Cho phép xóa các tab cố định"
+   },
+   "Automatic_clean": {
+      "message": "Tự động làm sạch"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Dọn sạch hoàn thành"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Đóng các tab khác trước khi vệ sinh"
+   },
+   "Customize": {
+      "message": "Tùy chỉnh"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Phản hồi và gợi ý"
+   },
+   "IndexedDB": {
+      "message": "Dữ liệu IndexedDB"
+   },
+   "IndexedDB_info": {
+      "message": "Xóa dữ liệu IndexedDB trên trang web"
+   },
+   "Recommendation": {
+      "message": "sự giới thiệu"
+   },
+   "SelectAll": {
+      "message": "Chọn tất cả"
+   },
+   "SelectNone": {
+      "message": "Chọn Không có"
+   },
+   "Tabblad": {
+      "message": "Tab"
+   },
+   "aboutCleanMaster": {
+      "message": "Giới thiệu về Clean Master"
+   },
+   "aboutUs": {
+      "message": "Về chúng tôi"
+   },
+   "appcache": {
+      "message": "Bộ nhớ cache của ứng dụng"
+   },
+   "appcache_info": {
+      "message": "Xóa dữ liệu trang web appcache"
+   },
+   "appdsc": {
+      "message": "Nhấp chuột một lần làm sạch bộ nhớ cache và thùng rác của trình duyệt, bảo vệ quyền riêng tư của bạn và làm cho trình duyệt của bạn nhanh hơn và hiệu quả hơn"
+   },
+   "apptitle": {
+      "message": "Clean Master: trình xóa bộ nhớ cache của Chrome tốt nhất"
+   },
+   "asyc_error": {
+      "message": "Một số dữ liệu được xóa tự động sẽ được khôi phục bằng cơ chế tự động đồng bộ hóa tài khoản Google."
+   },
+   "auto_sycn": {
+      "message": "Nếu Google Auto Sync được bật, dữ liệu sẽ được Google đồng bộ hóa sau khi xóa tự động."
+   },
+   "cache": {
+      "message": "Hình ảnh và tệp được lưu trong bộ nhớ cache"
+   },
+   "cache_info": {
+      "message": "Xóa bộ nhớ cache của trình duyệt"
+   },
+   "cancel": {
+      "message": "Hủy bỏ"
+   },
+   "clean": {
+      "message": "Sạch"
+   },
+   "cleani": {
+      "message": "Dọn dẹp"
+   },
+   "cleaningup": {
+      "message": "Dọn dẹp"
+   },
+   "click_auto_clean": {
+      "message": "Nhấp vào biểu tượng để tự động dọn sạch"
+   },
+   "click_icon_clean": {
+      "message": "Thực hiện dọn dẹp khi nhấp vào biểu tượng"
+   },
+   "close_browser_clean": {
+      "message": "Đóng trình duyệt tự động dọn dẹp"
+   },
+   "confirm": {
+      "message": "Xác nhận"
+   },
+   "contact": {
+      "message": "Liên hệ"
+   },
+   "cookies": {
+      "message": "bánh quy"
+   },
+   "cookies_info": {
+      "message": "Xóa cookie của trình duyệt được sửa đổi trong một khung thời gian cụ thể"
+   },
+   "cookies_prompt": {
+      "message": "Chọn hộp này sẽ xóa các cookie được lưu trong trình duyệt. Vui lòng xác nhận xem nó có được kiểm tra hay không."
+   },
+   "datatoremove": {
+      "message": "Dữ liệu để Xóa"
+   },
+   "donate": {
+      "message": "Quyên góp"
+   },
+   "downloads": {
+      "message": "Lịch sử tải xuống"
+   },
+   "downloads_info": {
+      "message": "Xóa danh sách trình duyệt của các tệp đã tải xuống (không phải bản thân các tệp đã tải xuống)"
+   },
+   "everything": {
+      "message": "Mọi điều"
+   },
+   "fileSystems": {
+      "message": "Hệ thống tệp trang web"
+   },
+   "fileSystems_info": {
+      "message": "Xóa dữ liệu hệ thống tệp trang web"
+   },
+   "formData": {
+      "message": "Dữ liệu biểu mẫu tự động điền"
+   },
+   "formData_info": {
+      "message": "Xóa dữ liệu biểu mẫu được lưu trữ trên trình duyệt"
+   },
+   "formData_prompt": {
+      "message": "Chọn hộp này sẽ xóa dữ liệu biểu mẫu được lưu bởi trình duyệt. Vui lòng xác nhận xem nó có được kiểm tra hay không."
+   },
+   "go_to_settings": {
+      "message": "Chuyển đến cài đặt"
+   },
+   "history": {
+      "message": "Lịch sử duyệt web"
+   },
+   "history_info": {
+      "message": "Xóa lịch sử trình duyệt"
+   },
+   "lastday": {
+      "message": "Ngày cuối"
+   },
+   "lasthour": {
+      "message": "Giờ cuối cùng"
+   },
+   "lastmonth": {
+      "message": "Tháng trước"
+   },
+   "lastweek": {
+      "message": "Tuần trước"
+   },
+   "localStorage": {
+      "message": "Dữ liệu lưu trữ cục bộ"
+   },
+   "localStorage_info": {
+      "message": "Xóa dữ liệu lưu trữ cục bộ của trang web"
+   },
+   "open_browser_clean": {
+      "message": "Mở trình duyệt để tự động dọn sạch"
+   },
+   "option": {
+      "message": "Tùy chọn"
+   },
+   "passwords": {
+      "message": "Mật khẩu đã lưu"
+   },
+   "passwords_info": {
+      "message": "Xóa mật khẩu được lưu trữ trên trình duyệt"
+   },
+   "passwords_prompt": {
+      "message": "Chọn hộp này sẽ xóa tài khoản và mật khẩu để lưu thông tin đăng nhập vào trình duyệt. Vui lòng xác nhận xem nó có được kiểm tra hay không."
+   },
+   "pluginData": {
+      "message": "Dữ liệu plugin"
+   },
+   "pluginData_info": {
+      "message": "Xóa dữ liệu lưu trữ plugin trình duyệt"
+   },
+   "praise": {
+      "message": "Khen ngợi năm sao"
+   },
+   "privacyPolicy": {
+      "message": "Chính sách Quyền riêng tư"
+   },
+   "prompt": {
+      "message": "Lời nhắc"
+   },
+   "rating_button_tate": {
+      "message": "Xếp hạng"
+   },
+   "say": {
+      "message": "Tôi có vài điều muốn nói"
+   },
+   "share": {
+      "message": "Chia sẻ"
+   },
+   "shareFriends": {
+      "message": "Chia sẻ với bạn bè của bạn"
+   },
+   "supportUs": {
+      "message": "Sự hỗ trợ của bạn là một sự khích lệ lớn đối với chúng tôi"
+   },
+   "termsOfUse": {
+      "message": "Điều khoản sử dụng"
+   },
+   "timePeriod": {
+      "message": "Thời gian"
+   },
+   "trackerTitle": {
+      "message": "người theo dõi tiềm năng"
+   },
+   "unselect_all": {
+      "message": "bỏ chọn tất cả"
+   },
+   "usproductokey": {
+      "message": "Sản phẩm của chúng tôi được okay với nó?"
+   },
+   "webSQL": {
+      "message": "Dữ liệu SQL Web"
+   },
+   "webSQL_info": {
+      "message": "Xóa dữ liệu WebSQL của trang web"
+   }
+}

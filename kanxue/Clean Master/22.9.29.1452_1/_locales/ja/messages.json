@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "高度なオプション"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "固定タブの消去を許可する"
+   },
+   "Automatic_clean": {
+      "message": "自動クリーン"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "クリーンアップ完了"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "クリーニングする前に他のタブを閉じてください"
+   },
+   "Customize": {
+      "message": "カスタマイズ"
+   },
+   "FeedbackandSuggestion": {
+      "message": "フィードバックと提案"
+   },
+   "IndexedDB": {
+      "message": "IndexedDBデータ"
+   },
+   "IndexedDB_info": {
+      "message": "ウェブサイトのIndexedDBデータをクリアします。"
+   },
+   "Recommendation": {
+      "message": "勧告"
+   },
+   "SelectAll": {
+      "message": "すべて選択"
+   },
+   "SelectNone": {
+      "message": "選択なし"
+   },
+   "Tabblad": {
+      "message": "タブ"
+   },
+   "aboutCleanMaster": {
+      "message": "Clean Masterについて"
+   },
+   "aboutUs": {
+      "message": "私たちに関しては"
+   },
+   "appcache": {
+      "message": "アプリケーションキャッシュ"
+   },
+   "appcache_info": {
+      "message": "ウェブサイトのappcacheデータをクリアします。"
+   },
+   "appdsc": {
+      "message": "ワンクリックでブラウザのキャッシュとゴミを掃除し、プライバシーを保護し、ブラウザをより迅速かつ生産的にする"
+   },
+   "apptitle": {
+      "message": "Clean Master: 最高のChromeキャッシュクリーナー"
+   },
+   "asyc_error": {
+      "message": "自動的にクリーンアップされたデータの一部は、Googleアカウントの自動同期メカニズムによって復元されます。"
+   },
+   "auto_sycn": {
+      "message": "Google自動同期が有効になっている場合、自動クリーンアップ後にデータがGoogleによって同期されます。"
+   },
+   "cache": {
+      "message": "キャッシュされたイメージとファイル"
+   },
+   "cache_info": {
+      "message": "ブラウザのキャッシュをクリアします。"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "clean": {
+      "message": "クリーン"
+   },
+   "cleani": {
+      "message": "クリーン"
+   },
+   "cleaningup": {
+      "message": "清掃"
+   },
+   "click_auto_clean": {
+      "message": "アイコンをクリックすると、自動的にクリーンアップされます。"
+   },
+   "click_icon_clean": {
+      "message": "アイコンをクリックするとクリーンアップを実行する"
+   },
+   "close_browser_clean": {
+      "message": "ブラウザを自動的にクリーンアップする"
+   },
+   "confirm": {
+      "message": "確認"
+   },
+   "contact": {
+      "message": "連絡先"
+   },
+   "cookies": {
+      "message": "クッキー"
+   },
+   "cookies_info": {
+      "message": "特定の期間内に変更されたブラウザのCookieを消去します。"
+   },
+   "cookies_prompt": {
+      "message": "このチェックボックスをオンにすると、ブラウザに保存されているCookieが消去されます。チェックされているかどうか確認してください。"
+   },
+   "datatoremove": {
+      "message": "削除するデータ"
+   },
+   "donate": {
+      "message": "寄付"
+   },
+   "downloads": {
+      "message": "ダウンロード履歴"
+   },
+   "downloads_info": {
+      "message": "ダウンロードしたファイルのブラウザーリストをクリアします（ダウンロードしたファイルそのものではありません）"
+   },
+   "everything": {
+      "message": "すべて"
+   },
+   "fileSystems": {
+      "message": "ウェブサイトファイルシステム"
+   },
+   "fileSystems_info": {
+      "message": "ウェブサイトのファイルシステムデータを消去する"
+   },
+   "formData": {
+      "message": "フォームデータの自動入力"
+   },
+   "formData_info": {
+      "message": "ブラウザに保存されたフォームデータを消去します。"
+   },
+   "formData_prompt": {
+      "message": "このチェックボックスをオンにすると、ブラウザによって保存されたフォームデータが消去されます。チェックされているかどうか確認してください。"
+   },
+   "go_to_settings": {
+      "message": "設定に移動"
+   },
+   "history": {
+      "message": "閲覧履歴"
+   },
+   "history_info": {
+      "message": "ブラウザの履歴をクリアします。"
+   },
+   "lastday": {
+      "message": "最後の日"
+   },
+   "lasthour": {
+      "message": "最後の時間"
+   },
+   "lastmonth": {
+      "message": "先月"
+   },
+   "lastweek": {
+      "message": "先週"
+   },
+   "localStorage": {
+      "message": "ローカルストレージデータ"
+   },
+   "localStorage_info": {
+      "message": "ウェブサイトのローカルストレージデータをクリアします。"
+   },
+   "open_browser_clean": {
+      "message": "自動的にクリーンアップするブラウザを開く"
+   },
+   "option": {
+      "message": "オプション"
+   },
+   "passwords": {
+      "message": "保存されたパスワード"
+   },
+   "passwords_info": {
+      "message": "ブラウザに保存されたパスワードを消去します。"
+   },
+   "passwords_prompt": {
+      "message": "このチェックボックスをオンにすると、ブラウザにログインを保存するためのアカウントとパスワードがクリアされます。チェックされているかどうか確認してください。"
+   },
+   "pluginData": {
+      "message": "プラグインデータ"
+   },
+   "pluginData_info": {
+      "message": "ブラウザのプラグインの保存データを消去します。"
+   },
+   "praise": {
+      "message": "5つ星の賞賛"
+   },
+   "privacyPolicy": {
+      "message": "プライバシーポリシー"
+   },
+   "prompt": {
+      "message": "プロンプト"
+   },
+   "rating_button_tate": {
+      "message": "評価"
+   },
+   "say": {
+      "message": "言いたいことがある"
+   },
+   "share": {
+      "message": "共有"
+   },
+   "shareFriends": {
+      "message": "お友達と私たちを共有してください！"
+   },
+   "supportUs": {
+      "message": "あなたのサポートは私たちにとって大きな励みになります"
+   },
+   "termsOfUse": {
+      "message": "利用規約"
+   },
+   "timePeriod": {
+      "message": "期間"
+   },
+   "trackerTitle": {
+      "message": "潜在的なトラッカー"
+   },
+   "unselect_all": {
+      "message": "すべての選択を解除する"
+   },
+   "usproductokey": {
+      "message": "私たちの製品はそれで大丈夫ですか？"
+   },
+   "webSQL": {
+      "message": "Web SQLデータ"
+   },
+   "webSQL_info": {
+      "message": "ウェブサイトのWebSQLデータを消去する"
+   }
+}

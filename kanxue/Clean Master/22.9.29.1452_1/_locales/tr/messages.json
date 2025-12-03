@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Gelişmiş seçenekler"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Sabit sekmelerin temizlenmesine izin ver"
+   },
+   "Automatic_clean": {
+      "message": "Otomatik temiz"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Tamamlananları temizle"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Temizlemeden önce diğer sekmeleri kapatın"
+   },
+   "Customize": {
+      "message": "Özelleştirmek"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Geribildirim ve öneri"
+   },
+   "IndexedDB": {
+      "message": "IndexedDB Verileri"
+   },
+   "IndexedDB_info": {
+      "message": "IndexedDB verilerini temizler"
+   },
+   "Recommendation": {
+      "message": "Tavsiye"
+   },
+   "SelectAll": {
+      "message": "Hepsini seç"
+   },
+   "SelectNone": {
+      "message": "Hiçbir şey seçilmedi"
+   },
+   "Tabblad": {
+      "message": "çıkıntı"
+   },
+   "aboutCleanMaster": {
+      "message": "Temiz Master hakkında"
+   },
+   "aboutUs": {
+      "message": "Hakkımızda"
+   },
+   "appcache": {
+      "message": "Uygulama Önbelleği"
+   },
+   "appcache_info": {
+      "message": "Web sitesi appcache verilerini temizler"
+   },
+   "appdsc": {
+      "message": "Tek tıklamayla tarayıcı önbelleğinizi ve çöp kutunuzu temizler, gizliliğinizi korur ve tarayıcınızı daha hızlı ve üretken hale getirir"
+   },
+   "apptitle": {
+      "message": "Clean Master: En İyi Chrome Önbellek Temizleyici"
+   },
+   "asyc_error": {
+      "message": "Otomatik olarak temizlenen verilerin bir kısmı Google hesabı otomatik senkronizasyon mekanizması tarafından geri yüklenir."
+   },
+   "auto_sycn": {
+      "message": "Google Otomatik Senkronizasyon açıksa, otomatik temizleme sonrasında veriler Google tarafından tekrar senkronize edilir."
+   },
+   "cache": {
+      "message": "Önbelleğe Alınan Görüntüler ve Dosyalar"
+   },
+   "cache_info": {
+      "message": "Tarayıcı önbelleğini temizler"
+   },
+   "cancel": {
+      "message": "İptal etmek"
+   },
+   "clean": {
+      "message": "Uygun"
+   },
+   "cleani": {
+      "message": "Temiz"
+   },
+   "cleaningup": {
+      "message": "Temizlemek"
+   },
+   "click_auto_clean": {
+      "message": "Otomatik olarak temizlemek için simgeyi tıklayın."
+   },
+   "click_icon_clean": {
+      "message": "Simgeye tıkladığınızda temizleme gerçekleştirin"
+   },
+   "close_browser_clean": {
+      "message": "Tarayıcıyı otomatik olarak temizle"
+   },
+   "confirm": {
+      "message": "Onaylamak"
+   },
+   "contact": {
+      "message": "İletişim"
+   },
+   "cookies": {
+      "message": "kurabiye"
+   },
+   "cookies_info": {
+      "message": "Belirli bir zaman diliminde değiştirilen tarayıcı çerezlerini temizler"
+   },
+   "cookies_prompt": {
+      "message": "Bu kutuyu işaretlemek, tarayıcıda kayıtlı çerezleri temizleyecektir. Lütfen kontrol edilip edilmediğini onaylayın."
+   },
+   "datatoremove": {
+      "message": "Kaldırılacak Veriler"
+   },
+   "donate": {
+      "message": "Bağış Yap"
+   },
+   "downloads": {
+      "message": "Geçmişi İndir"
+   },
+   "downloads_info": {
+      "message": "İndirilen dosyaların tarayıcı listesini temizler (indirilen dosyaların kendileri değil)"
+   },
+   "everything": {
+      "message": "her şey"
+   },
+   "fileSystems": {
+      "message": "Web Sitesi Dosya Sistemleri"
+   },
+   "fileSystems_info": {
+      "message": "Web sitesi dosya sistemi verilerini temizler"
+   },
+   "formData": {
+      "message": "Otomatik Doldurma formu Verileri"
+   },
+   "formData_info": {
+      "message": "Tarayıcıda saklanan form verilerini temizler"
+   },
+   "formData_prompt": {
+      "message": "Bu kutunun işaretlenmesi, tarayıcı tarafından kaydedilen form verilerini temizleyecektir. Lütfen kontrol edilip edilmediğini onaylayın."
+   },
+   "go_to_settings": {
+      "message": "Ayarlara git"
+   },
+   "history": {
+      "message": "Arama geçmişi"
+   },
+   "history_info": {
+      "message": "Tarayıcı geçmişini temizler"
+   },
+   "lastday": {
+      "message": "Son gun"
+   },
+   "lasthour": {
+      "message": "Son saat"
+   },
+   "lastmonth": {
+      "message": "Geçen ay"
+   },
+   "lastweek": {
+      "message": "Geçen hafta"
+   },
+   "localStorage": {
+      "message": "Yerel Depolama Verileri"
+   },
+   "localStorage_info": {
+      "message": "Web sitesinin yerel depolama verilerini temizler"
+   },
+   "open_browser_clean": {
+      "message": "Otomatik olarak temizlemek için tarayıcıyı aç"
+   },
+   "option": {
+      "message": "seçenek"
+   },
+   "passwords": {
+      "message": "Kayıtlı Şifreler"
+   },
+   "passwords_info": {
+      "message": "Tarayıcıda saklanan şifreleri temizler"
+   },
+   "passwords_prompt": {
+      "message": "Bu kutuyu işaretleyin, tarayıcıda oturum açmayı kaydetmek için hesabı ve şifreyi temizleyiniz. Lütfen kontrol edilip edilmediğini onaylayın."
+   },
+   "pluginData": {
+      "message": "Eklenti Verileri"
+   },
+   "pluginData_info": {
+      "message": "Tarayıcı eklentisi depolama verilerini temizler"
+   },
+   "praise": {
+      "message": "Beş yıldızlı övgü"
+   },
+   "privacyPolicy": {
+      "message": "Gizlilik Politikası"
+   },
+   "prompt": {
+      "message": "Komut istemi"
+   },
+   "rating_button_tate": {
+      "message": "Beğeni"
+   },
+   "say": {
+      "message": "Söyleyecek bir şeyim var"
+   },
+   "share": {
+      "message": "Paylaş"
+   },
+   "shareFriends": {
+      "message": "Arkadaşlarınızla bizi paylaşın!"
+   },
+   "supportUs": {
+      "message": "Desteğiniz bizim için büyük bir teşvik"
+   },
+   "termsOfUse": {
+      "message": "Kullanım Şartları"
+   },
+   "timePeriod": {
+      "message": "Zaman dilimi"
+   },
+   "trackerTitle": {
+      "message": "potansiyel izci"
+   },
+   "unselect_all": {
+      "message": "tümünü seç"
+   },
+   "usproductokey": {
+      "message": "Ürünlerimiz onunla tamam mı?"
+   },
+   "webSQL": {
+      "message": "Web SQL Verileri"
+   },
+   "webSQL_info": {
+      "message": "Web sitesi WebSQL verilerini temizler"
+   }
+}

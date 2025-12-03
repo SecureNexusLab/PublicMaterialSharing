@@ -1,0 +1,233 @@
+{
+   "AdvancedOptions": {
+      "message": "Opções avançadas"
+   },
+   "Allow_clearing_of_fixed_tabs": {
+      "message": "Permitir limpeza de guias fixas"
+   },
+   "Automatic_clean": {
+      "message": "Limpeza automática"
+   },
+   "CleanMaster": {
+      "message": "Clean Master"
+   },
+   "CleanUpCompleted": {
+      "message": "Limpar concluído"
+   },
+   "Closeothertabsbeforecleaning": {
+      "message": "Feche as outras abas antes de limpar"
+   },
+   "Customize": {
+      "message": "Customizar"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback e Sugestão"
+   },
+   "IndexedDB": {
+      "message": "Dados do IndexedDB"
+   },
+   "IndexedDB_info": {
+      "message": "Limpa os dados do IndexedDB do site"
+   },
+   "Recommendation": {
+      "message": "Recomendação"
+   },
+   "SelectAll": {
+      "message": "Selecionar tudo"
+   },
+   "SelectNone": {
+      "message": "Selecione nenhum"
+   },
+   "Tabblad": {
+      "message": "Tab"
+   },
+   "aboutCleanMaster": {
+      "message": "Sobre o Clean Master"
+   },
+   "aboutUs": {
+      "message": "Sobre nós"
+   },
+   "appcache": {
+      "message": "Cache de Aplicativos"
+   },
+   "appcache_info": {
+      "message": "Limpa os dados do appcache do site"
+   },
+   "appdsc": {
+      "message": "Um clique limpa o cache e a lixeira do navegador, protege sua privacidade e torna seu navegador mais rápido e produtivo"
+   },
+   "apptitle": {
+      "message": "Clean Master: o melhor limpador de cache do Chrome"
+   },
+   "asyc_error": {
+      "message": "Alguns dos dados limpos automaticamente serão restaurados pelo mecanismo de sincronização automática da Conta do Google."
+   },
+   "auto_sycn": {
+      "message": "Se o Google Auto Sync estiver ativado, os dados serão sincronizados pelo Google após a limpeza automática."
+   },
+   "cache": {
+      "message": "Imagens e arquivos armazenados em cache"
+   },
+   "cache_info": {
+      "message": "Limpa o cache do navegador"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "clean": {
+      "message": "Limpo"
+   },
+   "cleani": {
+      "message": "Limpar \\ limpo"
+   },
+   "cleaningup": {
+      "message": "Limpando"
+   },
+   "click_auto_clean": {
+      "message": "Clique no ícone para limpar automaticamente"
+   },
+   "click_icon_clean": {
+      "message": "Execute a limpeza ao clicar no ícone"
+   },
+   "close_browser_clean": {
+      "message": "Feche o navegador automaticamente"
+   },
+   "confirm": {
+      "message": "confirme"
+   },
+   "contact": {
+      "message": "Contato"
+   },
+   "cookies": {
+      "message": "bolinhos"
+   },
+   "cookies_info": {
+      "message": "Limpa os cookies do navegador modificados dentro de um determinado período de tempo"
+   },
+   "cookies_prompt": {
+      "message": "Marcar esta caixa apagará os cookies salvos no navegador. Por favor confirme se está marcado."
+   },
+   "datatoremove": {
+      "message": "Dados para remover"
+   },
+   "donate": {
+      "message": "Doar"
+   },
+   "downloads": {
+      "message": "Histórico de downloads"
+   },
+   "downloads_info": {
+      "message": "Limpa a lista de arquivos baixados do navegador (não os arquivos baixados)"
+   },
+   "everything": {
+      "message": "Tudo"
+   },
+   "fileSystems": {
+      "message": "Sistemas de arquivos do site"
+   },
+   "fileSystems_info": {
+      "message": "Limpa os dados do sistema de arquivos do site"
+   },
+   "formData": {
+      "message": "Dados do formulário de preenchimento automático"
+   },
+   "formData_info": {
+      "message": "Limpa os dados do formulário armazenado no navegador"
+   },
+   "formData_prompt": {
+      "message": "Marcar esta caixa apagará os dados do formulário salvos pelo navegador. Por favor confirme se está marcado."
+   },
+   "go_to_settings": {
+      "message": "Vá para as configurações"
+   },
+   "history": {
+      "message": "Histórico de Navegação"
+   },
+   "history_info": {
+      "message": "Limpa o histórico do navegador"
+   },
+   "lastday": {
+      "message": "Último dia"
+   },
+   "lasthour": {
+      "message": "Última hora"
+   },
+   "lastmonth": {
+      "message": "Mês passado"
+   },
+   "lastweek": {
+      "message": "Semana passada"
+   },
+   "localStorage": {
+      "message": "Dados de armazenamento local"
+   },
+   "localStorage_info": {
+      "message": "Limpa os dados de armazenamento local do site"
+   },
+   "open_browser_clean": {
+      "message": "Abra o navegador para limpar automaticamente"
+   },
+   "option": {
+      "message": "Opção"
+   },
+   "passwords": {
+      "message": "Senhas salvas"
+   },
+   "passwords_info": {
+      "message": "Limpa as senhas armazenadas do navegador"
+   },
+   "passwords_prompt": {
+      "message": "Marque esta caixa para limpar a conta e senha para salvar o login no navegador. Por favor confirme se está marcado."
+   },
+   "pluginData": {
+      "message": "Plugin Data"
+   },
+   "pluginData_info": {
+      "message": "Limpa os dados de armazenamento do plug-in do navegador"
+   },
+   "praise": {
+      "message": "Elogio de cinco estrelas"
+   },
+   "privacyPolicy": {
+      "message": "Política de Privacidade"
+   },
+   "prompt": {
+      "message": "Pronto"
+   },
+   "rating_button_tate": {
+      "message": "Avaliar"
+   },
+   "say": {
+      "message": "Eu tenho algo a dizer"
+   },
+   "share": {
+      "message": "Compartilhar"
+   },
+   "shareFriends": {
+      "message": "Compartilhe-nos com seus amigos!"
+   },
+   "supportUs": {
+      "message": "Seu apoio é um grande incentivo para nós"
+   },
+   "termsOfUse": {
+      "message": "Termos de uso"
+   },
+   "timePeriod": {
+      "message": "Período de tempo"
+   },
+   "trackerTitle": {
+      "message": "rastreador em potencial"
+   },
+   "unselect_all": {
+      "message": "desmarque todos"
+   },
+   "usproductokey": {
+      "message": "Nossos produtos estão bem com isso?"
+   },
+   "webSQL": {
+      "message": "Web SQL Data"
+   },
+   "webSQL_info": {
+      "message": "Limpa os dados do WebSQL do site"
+   }
+}
